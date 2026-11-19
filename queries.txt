@@ -1,0 +1,51 @@
+country	question	asked as
+US	accounting	What's the best accounting software for a small business?
+US	crm	What's the best CRM for a small team?
+US	email	What's the best email marketing tool for a small business?
+US	esign	What's the best e-signature software for a small business?
+US	helpdesk	What's the best help desk software for a small support team?
+US	hr	What's the best HR software for a small company?
+US	passwords	What's the best password manager for a small team?
+US	payments	What's the best payment processor for a small online store?
+US	payroll	What's the best payroll software for a small business?
+US	pm	What's the best project management tool for a startup?
+UK	accounting	What's the best accounting software for a small business?
+UK	crm	What's the best CRM for a small team?
+UK	email	What's the best email marketing tool for a small business?
+UK	esign	What's the best e-signature software for a small business?
+UK	helpdesk	What's the best help desk software for a small support team?
+UK	hr	What's the best HR software for a small company?
+UK	passwords	What's the best password manager for a small team?
+UK	payments	What's the best payment processor for a small online store?
+UK	payroll	What's the best payroll software for a small business?
+UK	pm	What's the best project management tool for a startup?
+AU	accounting	What's the best accounting software for a small business?
+AU	crm	What's the best CRM for a small team?
+AU	email	What's the best email marketing tool for a small business?
+AU	esign	What's the best e-signature software for a small business?
+AU	helpdesk	What's the best help desk software for a small support team?
+AU	hr	What's the best HR software for a small company?
+AU	passwords	What's the best password manager for a small team?
+AU	payments	What's the best payment processor for a small online store?
+AU	payroll	What's the best payroll software for a small business?
+AU	pm	What's the best project management tool for a startup?
+CA	accounting	What's the best accounting software for a small business?
+CA	crm	What's the best CRM for a small team?
+CA	email	What's the best email marketing tool for a small business?
+CA	esign	What's the best e-signature software for a small business?
+CA	helpdesk	What's the best help desk software for a small support team?
+CA	hr	What's the best HR software for a small company?
+CA	passwords	What's the best password manager for a small team?
+CA	payments	What's the best payment processor for a small online store?
+CA	payroll	What's the best payroll software for a small business?
+CA	pm	What's the best project management tool for a startup?
+DE	accounting	Was ist die beste Buchhaltungssoftware für ein kleines Unternehmen?
+DE	crm	Was ist das beste CRM für ein kleines Team?
+DE	email	Was ist das beste E-Mail-Marketing-Tool für ein kleines Unternehmen?
+DE	esign	Was ist die beste Software für elektronische Signaturen für ein kleines Unternehmen?
+DE	helpdesk	Was ist die beste Helpdesk-Software für ein kleines Support-Team?
+DE	hr	Was ist die beste HR-Software für ein kleines Unternehmen?
+DE	passwords	Was ist der beste Passwort-Manager für ein kleines Team?
+DE	payments	Was ist der beste Zahlungsanbieter für einen kleinen Onlineshop?
+DE	payroll	Was ist die beste Lohnabrechnungssoftware für ein kleines Unternehmen?
+DE	pm	Was ist das beste Projektmanagement-Tool für ein Startup?

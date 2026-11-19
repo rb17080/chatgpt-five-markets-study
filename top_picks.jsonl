@@ -1,0 +1,1500 @@
+{"id":"US|accounting|006","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2236}
+{"id":"US|accounting|004","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2197}
+{"id":"US|accounting|001","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2170}
+{"id":"US|accounting|002","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2153}
+{"id":"US|accounting|003","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2273}
+{"id":"US|accounting|008","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2226}
+{"id":"US|accounting|012","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2163}
+{"id":"US|accounting|010","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2211}
+{"id":"US|accounting|007","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2167}
+{"id":"US|accounting|013","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2070}
+{"id":"US|accounting|014","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2231}
+{"id":"US|accounting|017","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2174}
+{"id":"US|accounting|016","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2169}
+{"id":"US|accounting|015","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2172}
+{"id":"US|accounting|018","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2233}
+{"id":"US|accounting|019","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2127}
+{"id":"US|accounting|020","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2198}
+{"id":"US|accounting|021","pick":"QuickBooks","confidence":0.99,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2178}
+{"id":"US|accounting|022","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2164}
+{"id":"US|accounting|023","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2210}
+{"id":"US|accounting|026","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2216}
+{"id":"US|accounting|027","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2209}
+{"id":"US|crm|001","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2188}
+{"id":"US|crm|002","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2127}
+{"id":"US|crm|003","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2200}
+{"id":"US|crm|004","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2146}
+{"id":"US|crm|005","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2128}
+{"id":"US|crm|007","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2174}
+{"id":"US|crm|008","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2175}
+{"id":"US|crm|009","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2218}
+{"id":"US|crm|013","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2210}
+{"id":"US|crm|014","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2214}
+{"id":"US|crm|011","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2153}
+{"id":"US|crm|015","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2088}
+{"id":"US|crm|017","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2120}
+{"id":"US|crm|019","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2091}
+{"id":"US|crm|021","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2152}
+{"id":"US|crm|023","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2165}
+{"id":"US|crm|026","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2284}
+{"id":"US|crm|022","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2196}
+{"id":"US|crm|025","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2130}
+{"id":"US|crm|027","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2289}
+{"id":"US|crm|024","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2113}
+{"id":"US|crm|028","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2202}
+{"id":"US|crm|030","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2248}
+{"id":"US|email|001","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2117}
+{"id":"US|email|002","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2131}
+{"id":"US|email|003","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2145}
+{"id":"US|email|004","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2164}
+{"id":"US|email|007","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2174}
+{"id":"US|email|009","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2200}
+{"id":"US|email|010","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","Klaviyo","Mailchimp","Constant Contact"],"tokens":2097}
+{"id":"US|email|011","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2345}
+{"id":"US|email|012","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2069}
+{"id":"US|email|013","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Mailchimp","Constant Contact"],"tokens":2055}
+{"id":"US|email|014","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","Klaviyo","Mailchimp","Constant Contact"],"tokens":2066}
+{"id":"US|email|018","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2115}
+{"id":"US|email|015","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","Klaviyo","Mailchimp","Constant Contact"],"tokens":2164}
+{"id":"US|email|017","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","Klaviyo","Mailchimp","Constant Contact"],"tokens":2170}
+{"id":"US|email|019","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2183}
+{"id":"US|email|021","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2165}
+{"id":"US|email|022","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2072}
+{"id":"US|email|024","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Mailchimp","Constant Contact"],"tokens":2318}
+{"id":"US|email|023","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2069}
+{"id":"US|email|026","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2169}
+{"id":"US|email|029","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2128}
+{"id":"US|esign|002","pick":"DocuSign","confidence":0.98,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":1061}
+{"id":"US|esign|001","pick":"Dropbox Sign","confidence":1,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2075}
+{"id":"US|esign|003","pick":"Dropbox Sign","confidence":0.98,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2154}
+{"id":"US|esign|004","pick":"Dropbox Sign","confidence":1,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2108}
+{"id":"US|esign|005","pick":"Dropbox Sign","confidence":0.99,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2243}
+{"id":"US|esign|008","pick":"Dropbox Sign","confidence":0.59,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":1891}
+{"id":"US|esign|011","pick":"Dropbox Sign","confidence":0.92,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2084}
+{"id":"US|esign|010","pick":"Dropbox Sign","confidence":0.98,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2673}
+{"id":"US|esign|012","pick":"Dropbox Sign","confidence":0.69,"names":["DocuSign","Dropbox Sign","PandaDoc","SignWell"],"tokens":1728}
+{"id":"US|esign|013","pick":"Dropbox Sign","confidence":1,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2174}
+{"id":"US|esign|014","pick":"Dropbox Sign","confidence":0.89,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2157}
+{"id":"US|esign|015","pick":"Dropbox Sign","confidence":1,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2155}
+{"id":"US|esign|016","pick":"SignWell","confidence":0.69,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2299}
+{"id":"US|esign|017","pick":"Dropbox Sign","confidence":1,"names":["DocuSign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2052}
+{"id":"US|esign|018","pick":"Dropbox Sign","confidence":1,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2177}
+{"id":"US|esign|019","pick":"Dropbox Sign","confidence":0.94,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2474}
+{"id":"US|esign|022","pick":"Dropbox Sign","confidence":0.96,"names":["DocuSign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2146}
+{"id":"US|esign|021","pick":"Dropbox Sign","confidence":0.96,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2203}
+{"id":"US|esign|023","pick":"Dropbox Sign","confidence":1,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2128}
+{"id":"US|esign|025","pick":"Dropbox Sign","confidence":0.9,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2210}
+{"id":"US|esign|026","pick":"Dropbox Sign","confidence":1,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":1863}
+{"id":"US|esign|028","pick":"Dropbox Sign","confidence":0.98,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":1779}
+{"id":"US|esign|029","pick":"Dropbox Sign","confidence":0.78,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2246}
+{"id":"US|helpdesk|002","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2415}
+{"id":"US|helpdesk|003","pick":"Freshdesk","confidence":0.99,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2449}
+{"id":"US|helpdesk|004","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2575}
+{"id":"US|helpdesk|008","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2502}
+{"id":"US|helpdesk|009","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2269}
+{"id":"US|helpdesk|010","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2610}
+{"id":"US|helpdesk|011","pick":"Help Scout","confidence":0.75,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2137}
+{"id":"US|helpdesk|014","pick":"Help Scout","confidence":0.65,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2296}
+{"id":"US|helpdesk|016","pick":"Freshdesk","confidence":0.99,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2542}
+{"id":"US|helpdesk|015","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2184}
+{"id":"US|helpdesk|017","pick":"Help Scout","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2236}
+{"id":"US|helpdesk|018","pick":"Freshdesk","confidence":0.9,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2659}
+{"id":"US|helpdesk|021","pick":"Freshdesk","confidence":0.99,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2625}
+{"id":"US|helpdesk|024","pick":"Help Scout","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2263}
+{"id":"US|helpdesk|023","pick":"Freshdesk","confidence":0.82,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2444}
+{"id":"US|helpdesk|025","pick":"Freshdesk","confidence":0.99,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2261}
+{"id":"US|hr|001","pick":"Gusto","confidence":1,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2174}
+{"id":"US|hr|002","pick":"Gusto","confidence":1,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2173}
+{"id":"US|hr|003","pick":"Gusto","confidence":1,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2254}
+{"id":"US|hr|004","pick":"Gusto","confidence":1,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2149}
+{"id":"US|hr|006","pick":"Gusto","confidence":1,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2271}
+{"id":"US|hr|007","pick":"Gusto","confidence":1,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2209}
+{"id":"US|hr|008","pick":"Gusto","confidence":1,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2210}
+{"id":"US|hr|010","pick":"Gusto","confidence":0.96,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2302}
+{"id":"US|hr|013","pick":"Gusto","confidence":1,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2207}
+{"id":"US|hr|009","pick":"Gusto","confidence":1,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2249}
+{"id":"US|hr|014","pick":"Gusto","confidence":0.98,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2092}
+{"id":"US|hr|015","pick":"Gusto","confidence":0.99,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2169}
+{"id":"US|hr|016","pick":"Gusto","confidence":0.99,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2167}
+{"id":"US|hr|017","pick":"Gusto","confidence":0.99,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2271}
+{"id":"US|hr|018","pick":"Gusto","confidence":0.99,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2166}
+{"id":"US|hr|019","pick":"Gusto","confidence":0.82,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2246}
+{"id":"US|hr|020","pick":"Gusto","confidence":0.95,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2164}
+{"id":"US|hr|021","pick":"Gusto","confidence":1,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2267}
+{"id":"US|hr|023","pick":"Gusto","confidence":1,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2172}
+{"id":"US|hr|025","pick":"Gusto","confidence":1,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2116}
+{"id":"US|hr|026","pick":"Gusto","confidence":0.99,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2211}
+{"id":"US|passwords|002","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1768}
+{"id":"US|passwords|003","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1918}
+{"id":"US|passwords|005","pick":"1Password","confidence":0.98,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1796}
+{"id":"US|hr|028","pick":"Gusto","confidence":0.86,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2509}
+{"id":"US|passwords|008","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper"],"tokens":1629}
+{"id":"US|passwords|006","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1995}
+{"id":"US|passwords|010","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1924}
+{"id":"US|passwords|001","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper"],"tokens":1695}
+{"id":"US|passwords|012","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1993}
+{"id":"US|passwords|015","pick":"1Password","confidence":0.98,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1977}
+{"id":"US|passwords|014","pick":"Bitwarden","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1960}
+{"id":"US|passwords|011","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1848}
+{"id":"US|passwords|016","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1786}
+{"id":"US|passwords|020","pick":"Bitwarden","confidence":1,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":2058}
+{"id":"US|passwords|019","pick":"1Password","confidence":0.92,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1957}
+{"id":"US|passwords|022","pick":"Bitwarden","confidence":0.91,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1942}
+{"id":"US|passwords|021","pick":"Bitwarden","confidence":1,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1986}
+{"id":"US|passwords|023","pick":"1Password","confidence":0.85,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1860}
+{"id":"US|passwords|025","pick":"1Password","confidence":0.95,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1892}
+{"id":"US|passwords|024","pick":"1Password","confidence":0.99,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1971}
+{"id":"US|passwords|027","pick":"1Password","confidence":0.98,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":2009}
+{"id":"US|payments|001","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2051}
+{"id":"US|payments|002","pick":"Stripe","confidence":0.99,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2210}
+{"id":"US|payments|004","pick":"Stripe","confidence":0.54,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1913}
+{"id":"US|payments|007","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1794}
+{"id":"US|payments|006","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":1878}
+{"id":"US|payments|008","pick":"Stripe","confidence":0.99,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2126}
+{"id":"US|payments|009","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2122}
+{"id":"US|payments|010","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2163}
+{"id":"US|payments|013","pick":"Stripe","confidence":0.99,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2083}
+{"id":"US|payments|012","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2066}
+{"id":"US|payments|015","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":2040}
+{"id":"US|payments|016","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2173}
+{"id":"US|payments|019","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2233}
+{"id":"US|payments|018","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2112}
+{"id":"US|payments|020","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2123}
+{"id":"US|payments|022","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2080}
+{"id":"US|payments|023","pick":"Stripe","confidence":0.98,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1753}
+{"id":"US|payments|024","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2167}
+{"id":"US|payments|028","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2205}
+{"id":"US|payments|025","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":1867}
+{"id":"US|payroll|001","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2348}
+{"id":"US|payroll|002","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2316}
+{"id":"US|payroll|003","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2200}
+{"id":"US|payroll|005","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2491}
+{"id":"US|payroll|004","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2184}
+{"id":"US|payroll|007","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","Xero Payroll","ADP"],"tokens":2346}
+{"id":"US|payroll|008","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2218}
+{"id":"US|payroll|009","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","Xero Payroll","ADP"],"tokens":2763}
+{"id":"US|payroll|016","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","Xero Payroll","ADP"],"tokens":2333}
+{"id":"US|payroll|011","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2124}
+{"id":"US|payroll|010","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","Xero Payroll","ADP"],"tokens":2543}
+{"id":"US|payroll|017","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2153}
+{"id":"US|payroll|018","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2193}
+{"id":"US|payroll|019","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","Xero Payroll","ADP"],"tokens":2412}
+{"id":"US|payroll|020","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","Xero Payroll","ADP"],"tokens":2230}
+{"id":"US|payroll|022","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2222}
+{"id":"US|payroll|025","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2142}
+{"id":"US|payroll|023","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2125}
+{"id":"US|payroll|026","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay"],"tokens":2134}
+{"id":"US|pm|001","pick":"ClickUp","confidence":1,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2269}
+{"id":"US|payroll|030","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2250}
+{"id":"US|pm|004","pick":"Linear","confidence":1,"names":["ClickUp","Linear","Notion","Asana"],"tokens":1997}
+{"id":"US|pm|003","pick":"Linear","confidence":0.98,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2088}
+{"id":"US|pm|002","pick":"Linear","confidence":0.99,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2083}
+{"id":"US|pm|007","pick":"Linear","confidence":0.98,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2167}
+{"id":"US|pm|006","pick":"ClickUp","confidence":1,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2476}
+{"id":"US|pm|009","pick":"Linear","confidence":0.42,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2097}
+{"id":"US|pm|008","pick":"ClickUp","confidence":0.96,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2225}
+{"id":"US|pm|010","pick":"ClickUp","confidence":0.95,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2854}
+{"id":"US|pm|011","pick":"none","confidence":0.7,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2074}
+{"id":"US|pm|012","pick":"none","confidence":0.68,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2087}
+{"id":"US|pm|015","pick":"ClickUp","confidence":1,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2015}
+{"id":"US|pm|014","pick":"Linear","confidence":0.42,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2205}
+{"id":"US|pm|017","pick":"ClickUp","confidence":1,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2475}
+{"id":"US|pm|019","pick":"ClickUp","confidence":1,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2116}
+{"id":"US|pm|026","pick":"ClickUp","confidence":0.83,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2069}
+{"id":"US|pm|028","pick":"ClickUp","confidence":1,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2198}
+{"id":"US|pm|024","pick":"Linear","confidence":0.99,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2029}
+{"id":"US|pm|021","pick":"ClickUp","confidence":1,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2178}
+{"id":"GB|accounting|001","pick":"Xero","confidence":0.92,"names":["Xero","QuickBooks","Zoho Books","FreeAgent"],"tokens":2247}
+{"id":"GB|accounting|003","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","FreeAgent"],"tokens":2067}
+{"id":"GB|accounting|004","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","FreeAgent"],"tokens":2236}
+{"id":"GB|accounting|008","pick":"Xero","confidence":0.7,"names":["Xero","QuickBooks","Zoho Books","FreeAgent"],"tokens":2205}
+{"id":"GB|accounting|006","pick":"Xero","confidence":0.99,"names":["Xero","QuickBooks","Zoho Books","FreeAgent"],"tokens":1715}
+{"id":"GB|accounting|009","pick":"Xero","confidence":0.98,"names":["Xero","QuickBooks","Zoho Books","FreeAgent"],"tokens":2163}
+{"id":"GB|accounting|010","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","FreeAgent"],"tokens":2447}
+{"id":"GB|accounting|011","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","FreeAgent"],"tokens":2184}
+{"id":"GB|accounting|012","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","FreeAgent"],"tokens":2260}
+{"id":"GB|accounting|014","pick":"Xero","confidence":0.82,"names":["Xero","QuickBooks","Zoho Books","FreeAgent"],"tokens":2256}
+{"id":"GB|accounting|016","pick":"Xero","confidence":0.82,"names":["Xero","QuickBooks","Zoho Books","FreeAgent"],"tokens":2196}
+{"id":"GB|accounting|015","pick":"Xero","confidence":0.96,"names":["Xero","QuickBooks","Zoho Books","FreeAgent"],"tokens":2144}
+{"id":"GB|accounting|017","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","FreeAgent"],"tokens":2437}
+{"id":"GB|accounting|019","pick":"Xero","confidence":0.96,"names":["Xero","QuickBooks","Zoho Books","FreeAgent"],"tokens":2167}
+{"id":"GB|accounting|020","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","FreeAgent"],"tokens":2110}
+{"id":"GB|accounting|023","pick":"Xero","confidence":0.98,"names":["Xero","QuickBooks","Zoho Books","FreeAgent"],"tokens":2022}
+{"id":"GB|accounting|022","pick":"Xero","confidence":0.81,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","FreeAgent"],"tokens":2433}
+{"id":"GB|accounting|024","pick":"Xero","confidence":0.99,"names":["Xero","QuickBooks","Zoho Books","FreeAgent"],"tokens":1960}
+{"id":"GB|accounting|025","pick":"Xero","confidence":0.96,"names":["Xero","QuickBooks","Zoho Books","FreeAgent"],"tokens":2327}
+{"id":"GB|accounting|026","pick":"Xero","confidence":0.9,"names":["Xero","QuickBooks","Zoho Books","FreeAgent"],"tokens":2271}
+{"id":"GB|accounting|028","pick":"Xero","confidence":0.98,"names":["Xero","QuickBooks","Zoho Books","FreeAgent"],"tokens":2117}
+{"id":"GB|accounting|027","pick":"Xero","confidence":0.87,"names":["Xero","QuickBooks","Zoho Books","FreeAgent"],"tokens":2414}
+{"id":"GB|crm|001","pick":"HubSpot","confidence":0.96,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":2106}
+{"id":"GB|crm|003","pick":"HubSpot","confidence":0.91,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":2160}
+{"id":"GB|crm|002","pick":"HubSpot","confidence":0.95,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2124}
+{"id":"GB|crm|006","pick":"HubSpot","confidence":0.99,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":2115}
+{"id":"GB|crm|005","pick":"HubSpot","confidence":1,"names":["Pipedrive","Zoho CRM","HubSpot","monday CRM"],"tokens":1755}
+{"id":"GB|crm|007","pick":"HubSpot","confidence":0.99,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":2290}
+{"id":"GB|crm|011","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2162}
+{"id":"GB|crm|008","pick":"HubSpot","confidence":0.96,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":2161}
+{"id":"GB|crm|012","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":2185}
+{"id":"GB|crm|013","pick":"HubSpot","confidence":0.94,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":2178}
+{"id":"GB|crm|015","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":2048}
+{"id":"GB|crm|017","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":1920}
+{"id":"GB|crm|020","pick":"HubSpot","confidence":0.93,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2190}
+{"id":"GB|crm|022","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":2108}
+{"id":"GB|crm|023","pick":"HubSpot","confidence":0.96,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":2141}
+{"id":"GB|crm|024","pick":"HubSpot","confidence":0.94,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":2203}
+{"id":"GB|crm|025","pick":"HubSpot","confidence":0.95,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":2053}
+{"id":"GB|crm|028","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":2121}
+{"id":"GB|crm|030","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":2087}
+{"id":"GB|crm|029","pick":"HubSpot","confidence":0.96,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":2169}
+{"id":"GB|email|001","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2111}
+{"id":"GB|email|002","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2138}
+{"id":"GB|email|003","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2104}
+{"id":"GB|email|005","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2157}
+{"id":"GB|email|006","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2054}
+{"id":"GB|email|007","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2048}
+{"id":"GB|email|009","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2009}
+{"id":"GB|email|011","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2298}
+{"id":"GB|email|013","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2252}
+{"id":"GB|email|016","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2180}
+{"id":"GB|email|017","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2064}
+{"id":"GB|email|014","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2200}
+{"id":"GB|email|018","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2129}
+{"id":"GB|email|022","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2184}
+{"id":"GB|email|021","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2232}
+{"id":"GB|email|027","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2069}
+{"id":"GB|email|024","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2071}
+{"id":"GB|esign|001","pick":"Dropbox Sign","confidence":0.5,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":1859}
+{"id":"GB|esign|002","pick":"none","confidence":0.89,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2897}
+{"id":"GB|esign|003","pick":"none","confidence":0.52,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2384}
+{"id":"GB|esign|005","pick":"Dropbox Sign","confidence":0.9,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":1891}
+{"id":"GB|esign|007","pick":"Dropbox Sign","confidence":0.99,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2305}
+{"id":"GB|esign|004","pick":"Dropbox Sign","confidence":0.46,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2141}
+{"id":"GB|esign|008","pick":"Dropbox Sign","confidence":0.94,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":1773}
+{"id":"GB|esign|009","pick":"Dropbox Sign","confidence":0.95,"names":["DocuSign","Dropbox Sign","PandaDoc"],"tokens":2055}
+{"id":"GB|esign|010","pick":"Dropbox Sign","confidence":1,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2310}
+{"id":"GB|esign|011","pick":"Dropbox Sign","confidence":1,"names":["DocuSign","Dropbox Sign","PandaDoc"],"tokens":2226}
+{"id":"GB|esign|013","pick":"Dropbox Sign","confidence":0.96,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2400}
+{"id":"GB|esign|014","pick":"SignWell","confidence":1,"names":["DocuSign","Adobe Acrobat Sign","PandaDoc","SignWell"],"tokens":2351}
+{"id":"GB|esign|017","pick":"Dropbox Sign","confidence":0.86,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2281}
+{"id":"GB|esign|018","pick":"Dropbox Sign","confidence":0.98,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2081}
+{"id":"GB|esign|019","pick":"Dropbox Sign","confidence":0.86,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2230}
+{"id":"GB|esign|015","pick":"Dropbox Sign","confidence":0.94,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2003}
+{"id":"GB|esign|025","pick":"Dropbox Sign","confidence":1,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2236}
+{"id":"GB|esign|020","pick":"Dropbox Sign","confidence":0.42,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2097}
+{"id":"GB|esign|023","pick":"none","confidence":0.77,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2221}
+{"id":"GB|esign|030","pick":"Dropbox Sign","confidence":0.92,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2378}
+{"id":"GB|helpdesk|001","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2653}
+{"id":"GB|helpdesk|002","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2323}
+{"id":"GB|helpdesk|005","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2394}
+{"id":"GB|helpdesk|004","pick":"Freshdesk","confidence":0.69,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2245}
+{"id":"GB|helpdesk|006","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2249}
+{"id":"GB|helpdesk|009","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":3044}
+{"id":"GB|helpdesk|010","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2491}
+{"id":"GB|helpdesk|013","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2146}
+{"id":"GB|helpdesk|012","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2562}
+{"id":"GB|helpdesk|014","pick":"Freshdesk","confidence":0.9,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2009}
+{"id":"GB|helpdesk|015","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2190}
+{"id":"GB|helpdesk|016","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2341}
+{"id":"GB|helpdesk|017","pick":"Freshdesk","confidence":0.98,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2325}
+{"id":"GB|helpdesk|018","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2648}
+{"id":"GB|helpdesk|019","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":1808}
+{"id":"GB|helpdesk|020","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2636}
+{"id":"GB|helpdesk|022","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2328}
+{"id":"GB|helpdesk|024","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2468}
+{"id":"GB|helpdesk|028","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2304}
+{"id":"GB|hr|001","pick":"none","confidence":0.96,"names":["Employment Hero"],"tokens":2103}
+{"id":"GB|hr|002","pick":"none","confidence":0.83,"names":["Employment Hero","Gusto"],"tokens":2492}
+{"id":"GB|hr|004","pick":"none","confidence":0.81,"names":["BambooHR","Rippling","Employment Hero"],"tokens":2099}
+{"id":"GB|hr|003","pick":"none","confidence":0.98,"names":["Employment Hero","Personio"],"tokens":2167}
+{"id":"GB|hr|005","pick":"none","confidence":0.89,"names":["BambooHR","Employment Hero"],"tokens":2097}
+{"id":"GB|hr|006","pick":"none","confidence":0.89,"names":["BambooHR","Employment Hero"],"tokens":2296}
+{"id":"GB|hr|007","pick":"none","confidence":0.8,"names":["Employment Hero","Personio"],"tokens":2052}
+{"id":"GB|hr|008","pick":"none","confidence":0.88,"names":["Employment Hero"],"tokens":2283}
+{"id":"GB|hr|009","pick":"BambooHR","confidence":0.95,"names":["BambooHR","Rippling","Employment Hero"],"tokens":2101}
+{"id":"GB|hr|011","pick":"none","confidence":0.76,"names":["BambooHR","Employment Hero"],"tokens":2235}
+{"id":"GB|hr|013","pick":"Employment Hero","confidence":0.63,"names":["BambooHR","Zoho People","Employment Hero"],"tokens":2248}
+{"id":"GB|hr|015","pick":"none","confidence":0.83,"names":["BambooHR","Employment Hero"],"tokens":1799}
+{"id":"GB|hr|016","pick":"BambooHR","confidence":0.55,"names":["BambooHR","Employment Hero"],"tokens":2088}
+{"id":"GB|hr|018","pick":"none","confidence":0.79,"names":["Employment Hero","Gusto"],"tokens":2107}
+{"id":"GB|hr|020","pick":"none","confidence":0.65,"names":["Zoho People","Employment Hero","Gusto"],"tokens":2125}
+{"id":"GB|hr|019","pick":"none","confidence":0.74,"names":["Employment Hero"],"tokens":2019}
+{"id":"GB|hr|021","pick":"BambooHR","confidence":0.31,"names":["BambooHR","Rippling","Employment Hero"],"tokens":2140}
+{"id":"GB|hr|023","pick":"none","confidence":0.96,"names":["BambooHR","Employment Hero"],"tokens":2162}
+{"id":"GB|hr|022","pick":"Employment Hero","confidence":0.71,"names":["BambooHR","Employment Hero","Personio"],"tokens":2046}
+{"id":"GB|hr|026","pick":"BambooHR","confidence":0.06,"names":["BambooHR","Employment Hero"],"tokens":2060}
+{"id":"GB|hr|024","pick":"none","confidence":0.96,"names":["Employment Hero"],"tokens":2046}
+{"id":"GB|hr|030","pick":"BambooHR","confidence":0.94,"names":["BambooHR","Employment Hero"],"tokens":2493}
+{"id":"GB|passwords|001","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":2030}
+{"id":"GB|passwords|002","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1935}
+{"id":"GB|passwords|003","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":2028}
+{"id":"GB|passwords|004","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1759}
+{"id":"GB|passwords|005","pick":"1Password","confidence":0.92,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1878}
+{"id":"GB|passwords|006","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1808}
+{"id":"GB|passwords|007","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1920}
+{"id":"GB|passwords|008","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":2109}
+{"id":"GB|passwords|009","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1870}
+{"id":"GB|passwords|010","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1950}
+{"id":"GB|passwords|012","pick":"Bitwarden","confidence":1,"names":["1Password","Bitwarden","Proton Pass"],"tokens":1629}
+{"id":"GB|passwords|014","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper","Dashlane"],"tokens":1995}
+{"id":"GB|passwords|015","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1946}
+{"id":"GB|passwords|017","pick":"1Password","confidence":0.96,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":2037}
+{"id":"GB|passwords|019","pick":"1Password","confidence":0.98,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1929}
+{"id":"GB|passwords|020","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper","Dashlane"],"tokens":2302}
+{"id":"GB|passwords|021","pick":"1Password","confidence":0.96,"names":["1Password","Bitwarden","Proton Pass","Keeper","Dashlane"],"tokens":2219}
+{"id":"GB|passwords|022","pick":"1Password","confidence":0.96,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1922}
+{"id":"GB|passwords|023","pick":"1Password","confidence":0.98,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1970}
+{"id":"GB|passwords|024","pick":"1Password","confidence":0.93,"names":["1Password","Bitwarden","Proton Pass","Keeper","Dashlane"],"tokens":2315}
+{"id":"GB|passwords|025","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1876}
+{"id":"GB|passwords|028","pick":"1Password","confidence":0.98,"names":["1Password","Bitwarden","Proton Pass","Keeper","Dashlane"],"tokens":2280}
+{"id":"GB|payments|001","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1974}
+{"id":"GB|payments|002","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1778}
+{"id":"GB|payments|003","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Mollie"],"tokens":2076}
+{"id":"GB|payments|005","pick":"Stripe","confidence":0.98,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1736}
+{"id":"GB|payments|007","pick":"Stripe","confidence":0.99,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1962}
+{"id":"GB|payments|006","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Mollie"],"tokens":2528}
+{"id":"GB|payments|008","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Mollie"],"tokens":2118}
+{"id":"GB|payments|010","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1831}
+{"id":"GB|payments|011","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1790}
+{"id":"GB|payments|012","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1244}
+{"id":"GB|payments|015","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Mollie"],"tokens":2089}
+{"id":"GB|payments|013","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Mollie"],"tokens":2097}
+{"id":"GB|payments|016","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1653}
+{"id":"GB|payments|017","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Mollie"],"tokens":2067}
+{"id":"GB|payments|018","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1829}
+{"id":"GB|payments|019","pick":"Stripe","confidence":0.95,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1803}
+{"id":"GB|payments|020","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1741}
+{"id":"GB|payments|021","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Mollie"],"tokens":2115}
+{"id":"GB|payments|022","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Mollie"],"tokens":2081}
+{"id":"GB|payments|023","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Mollie"],"tokens":2034}
+{"id":"GB|payments|024","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Mollie"],"tokens":2348}
+{"id":"GB|payments|025","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Mollie"],"tokens":2066}
+{"id":"GB|payments|027","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1664}
+{"id":"GB|payments|030","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":2101}
+{"id":"GB|payroll|001","pick":"Sage Payroll","confidence":0.81,"names":["QuickBooks Payroll","Sage Payroll","Xero Payroll"],"tokens":2079}
+{"id":"GB|payroll|002","pick":"Sage Payroll","confidence":0.92,"names":["QuickBooks Payroll","Gusto","OnPay","Sage Payroll","Xero Payroll"],"tokens":2358}
+{"id":"GB|payroll|003","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2044}
+{"id":"GB|payroll|004","pick":"Gusto","confidence":0.99,"names":["QuickBooks Payroll","Gusto","OnPay","Sage Payroll","Xero Payroll","ADP"],"tokens":2011}
+{"id":"GB|payroll|005","pick":"none","confidence":0.79,"names":["QuickBooks Payroll","Sage Payroll","Xero Payroll"],"tokens":2105}
+{"id":"GB|payroll|006","pick":"Gusto","confidence":0.94,"names":["QuickBooks Payroll","Gusto","OnPay","Sage Payroll","Xero Payroll","ADP"],"tokens":2574}
+{"id":"GB|payroll|009","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","Sage Payroll","Xero Payroll","ADP"],"tokens":2245}
+{"id":"GB|payroll|007","pick":"Gusto","confidence":0.63,"names":["QuickBooks Payroll","Gusto","Sage Payroll","Xero Payroll","ADP"],"tokens":1994}
+{"id":"GB|payroll|011","pick":"Sage Payroll","confidence":0.55,"names":["QuickBooks Payroll","Sage Payroll","Xero Payroll"],"tokens":1025}
+{"id":"GB|payroll|013","pick":"Sage Payroll","confidence":1,"names":["QuickBooks Payroll","Gusto","Sage Payroll","Xero Payroll"],"tokens":2052}
+{"id":"GB|payroll|014","pick":"Sage Payroll","confidence":1,"names":["QuickBooks Payroll","Sage Payroll","Xero Payroll"],"tokens":2202}
+{"id":"GB|payroll|015","pick":"Gusto","confidence":0.98,"names":["QuickBooks Payroll","Gusto","OnPay","Sage Payroll","Xero Payroll","ADP"],"tokens":2316}
+{"id":"GB|payroll|016","pick":"Gusto","confidence":0.89,"names":["QuickBooks Payroll","Gusto","OnPay","Sage Payroll","Xero Payroll","ADP"],"tokens":2460}
+{"id":"GB|payroll|017","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","Sage Payroll","Xero Payroll","ADP"],"tokens":2167}
+{"id":"GB|payroll|018","pick":"Gusto","confidence":0.66,"names":["QuickBooks Payroll","Gusto","OnPay","Sage Payroll","Xero Payroll","ADP"],"tokens":3250}
+{"id":"GB|payroll|022","pick":"Sage Payroll","confidence":0.69,"names":["QuickBooks Payroll","Sage Payroll","Xero Payroll"],"tokens":2242}
+{"id":"GB|payroll|021","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2113}
+{"id":"GB|payroll|024","pick":"Sage Payroll","confidence":0.88,"names":["QuickBooks Payroll","Sage Payroll","Xero Payroll"],"tokens":2081}
+{"id":"GB|payroll|026","pick":"Sage Payroll","confidence":0.97,"names":["QuickBooks Payroll","Sage Payroll","Xero Payroll"],"tokens":2304}
+{"id":"GB|payroll|025","pick":"Sage Payroll","confidence":0.93,"names":["QuickBooks Payroll","Sage Payroll","Xero Payroll"],"tokens":2087}
+{"id":"GB|payroll|028","pick":"Sage Payroll","confidence":1,"names":["QuickBooks Payroll","Sage Payroll","Xero Payroll"],"tokens":2255}
+{"id":"GB|payroll|029","pick":"Sage Payroll","confidence":0.95,"names":["QuickBooks Payroll","Gusto","Sage Payroll","Xero Payroll"],"tokens":2236}
+{"id":"GB|pm|001","pick":"Linear","confidence":0.51,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2017}
+{"id":"GB|pm|003","pick":"ClickUp","confidence":0.45,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2061}
+{"id":"GB|pm|002","pick":"ClickUp","confidence":1,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2098}
+{"id":"GB|pm|004","pick":"ClickUp","confidence":1,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2143}
+{"id":"GB|pm|005","pick":"Linear","confidence":0.98,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2009}
+{"id":"GB|pm|006","pick":"Linear","confidence":1,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2061}
+{"id":"GB|pm|007","pick":"Linear","confidence":0.42,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2099}
+{"id":"GB|pm|008","pick":"Linear","confidence":0.87,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2367}
+{"id":"GB|pm|010","pick":"Linear","confidence":0.69,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2049}
+{"id":"GB|pm|012","pick":"ClickUp","confidence":1,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2134}
+{"id":"GB|pm|011","pick":"ClickUp","confidence":1,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2143}
+{"id":"GB|pm|015","pick":"Linear","confidence":0.96,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2061}
+{"id":"GB|pm|013","pick":"Linear","confidence":0.99,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2324}
+{"id":"GB|pm|017","pick":"ClickUp","confidence":1,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2078}
+{"id":"GB|pm|018","pick":"Linear","confidence":1,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2077}
+{"id":"GB|pm|019","pick":"ClickUp","confidence":1,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2306}
+{"id":"GB|pm|020","pick":"Linear","confidence":0.82,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2410}
+{"id":"GB|pm|021","pick":"Linear","confidence":0.96,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2169}
+{"id":"GB|pm|024","pick":"Linear","confidence":0.94,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2065}
+{"id":"GB|pm|030","pick":"Linear","confidence":0.44,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2060}
+{"id":"AU|accounting|001","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","MYOB"],"tokens":2045}
+{"id":"AU|accounting|002","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","MYOB"],"tokens":2143}
+{"id":"AU|accounting|004","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","Wave","MYOB"],"tokens":2111}
+{"id":"AU|accounting|005","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","MYOB"],"tokens":2069}
+{"id":"AU|accounting|006","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","Wave","MYOB"],"tokens":2129}
+{"id":"AU|accounting|007","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","MYOB"],"tokens":2342}
+{"id":"AU|accounting|010","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","MYOB"],"tokens":2129}
+{"id":"AU|accounting|011","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","MYOB"],"tokens":2103}
+{"id":"AU|accounting|008","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","Wave","MYOB"],"tokens":2121}
+{"id":"AU|accounting|012","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","MYOB"],"tokens":2366}
+{"id":"AU|accounting|013","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","MYOB"],"tokens":2035}
+{"id":"AU|accounting|016","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","MYOB"],"tokens":2142}
+{"id":"AU|accounting|018","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","MYOB"],"tokens":2082}
+{"id":"AU|accounting|014","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","MYOB"],"tokens":1977}
+{"id":"AU|accounting|019","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","MYOB"],"tokens":2115}
+{"id":"AU|accounting|020","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","MYOB"],"tokens":2010}
+{"id":"AU|accounting|021","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","MYOB"],"tokens":2153}
+{"id":"AU|accounting|022","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","MYOB"],"tokens":1808}
+{"id":"AU|accounting|023","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","MYOB"],"tokens":1944}
+{"id":"AU|accounting|024","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","MYOB"],"tokens":1984}
+{"id":"AU|accounting|027","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","MYOB"],"tokens":2056}
+{"id":"AU|crm|002","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2096}
+{"id":"AU|crm|004","pick":"HubSpot","confidence":0.96,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2204}
+{"id":"AU|crm|003","pick":"HubSpot","confidence":0.88,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2119}
+{"id":"AU|crm|005","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2133}
+{"id":"AU|crm|006","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2205}
+{"id":"AU|crm|007","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2085}
+{"id":"AU|crm|009","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":2088}
+{"id":"AU|crm|008","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2166}
+{"id":"AU|crm|010","pick":"HubSpot","confidence":0.96,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":2199}
+{"id":"AU|crm|011","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2183}
+{"id":"AU|crm|012","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2208}
+{"id":"AU|crm|013","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2283}
+{"id":"AU|crm|014","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2200}
+{"id":"AU|crm|015","pick":"HubSpot","confidence":0.98,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2148}
+{"id":"AU|crm|016","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2178}
+{"id":"AU|crm|017","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":1873}
+{"id":"AU|crm|018","pick":"HubSpot","confidence":0.95,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2129}
+{"id":"AU|crm|019","pick":"HubSpot","confidence":0.93,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2164}
+{"id":"AU|crm|021","pick":"HubSpot","confidence":0.94,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2114}
+{"id":"AU|crm|022","pick":"HubSpot","confidence":0.94,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2249}
+{"id":"AU|crm|023","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2122}
+{"id":"AU|crm|024","pick":"HubSpot","confidence":0.76,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":1868}
+{"id":"AU|crm|025","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2204}
+{"id":"AU|crm|026","pick":"HubSpot","confidence":0.99,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2280}
+{"id":"AU|email|001","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2233}
+{"id":"AU|email|002","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2068}
+{"id":"AU|email|004","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2134}
+{"id":"AU|email|006","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2132}
+{"id":"AU|email|007","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2026}
+{"id":"AU|email|003","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2160}
+{"id":"AU|email|008","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2162}
+{"id":"AU|email|009","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2266}
+{"id":"AU|email|010","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2212}
+{"id":"AU|email|013","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2159}
+{"id":"AU|email|011","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2133}
+{"id":"AU|email|014","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2200}
+{"id":"AU|email|015","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2108}
+{"id":"AU|email|017","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2109}
+{"id":"AU|email|018","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2046}
+{"id":"AU|email|019","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2119}
+{"id":"AU|email|020","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2119}
+{"id":"AU|email|021","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2089}
+{"id":"AU|email|022","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2091}
+{"id":"AU|email|024","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2116}
+{"id":"AU|email|025","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2153}
+{"id":"AU|esign|001","pick":"Dropbox Sign","confidence":0.89,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":1980}
+{"id":"AU|esign|003","pick":"Dropbox Sign","confidence":1,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2480}
+{"id":"AU|esign|002","pick":"DocuSign","confidence":0.99,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2350}
+{"id":"AU|esign|004","pick":"none","confidence":0.24,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2482}
+{"id":"AU|esign|005","pick":"Dropbox Sign","confidence":0.94,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2507}
+{"id":"AU|esign|006","pick":"Dropbox Sign","confidence":0.95,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2239}
+{"id":"AU|esign|008","pick":"Dropbox Sign","confidence":0.6,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2330}
+{"id":"AU|esign|007","pick":"SignWell","confidence":0.99,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2416}
+{"id":"AU|esign|009","pick":"Dropbox Sign","confidence":1,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2335}
+{"id":"AU|esign|011","pick":"Dropbox Sign","confidence":0.95,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2297}
+{"id":"AU|esign|013","pick":"Dropbox Sign","confidence":0.91,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2326}
+{"id":"AU|esign|014","pick":"Dropbox Sign","confidence":1,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2163}
+{"id":"AU|esign|019","pick":"DocuSign","confidence":0.96,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2118}
+{"id":"AU|esign|018","pick":"SignWell","confidence":0.95,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2538}
+{"id":"AU|esign|020","pick":"Dropbox Sign","confidence":0.71,"names":["DocuSign","Dropbox Sign","PandaDoc"],"tokens":2207}
+{"id":"AU|esign|021","pick":"Dropbox Sign","confidence":0.95,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2220}
+{"id":"AU|esign|022","pick":"Dropbox Sign","confidence":0.87,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2237}
+{"id":"AU|esign|024","pick":"Dropbox Sign","confidence":1,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":1953}
+{"id":"AU|esign|025","pick":"Dropbox Sign","confidence":1,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2383}
+{"id":"AU|esign|027","pick":"Dropbox Sign","confidence":0.95,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2293}
+{"id":"AU|esign|028","pick":"Dropbox Sign","confidence":0.85,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2312}
+{"id":"AU|helpdesk|001","pick":"Freshdesk","confidence":0.92,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2241}
+{"id":"AU|helpdesk|002","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2524}
+{"id":"AU|helpdesk|003","pick":"Freshdesk","confidence":0.82,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2283}
+{"id":"AU|helpdesk|004","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2589}
+{"id":"AU|helpdesk|005","pick":"Help Scout","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2098}
+{"id":"AU|helpdesk|006","pick":"Freshdesk","confidence":0.96,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2598}
+{"id":"AU|helpdesk|007","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2431}
+{"id":"AU|helpdesk|010","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2718}
+{"id":"AU|helpdesk|011","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2159}
+{"id":"AU|helpdesk|012","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2366}
+{"id":"AU|helpdesk|013","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2668}
+{"id":"AU|helpdesk|015","pick":"Help Scout","confidence":0.99,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2271}
+{"id":"AU|helpdesk|016","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2191}
+{"id":"AU|helpdesk|017","pick":"Help Scout","confidence":0.84,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2394}
+{"id":"AU|helpdesk|018","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2578}
+{"id":"AU|helpdesk|019","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2391}
+{"id":"AU|helpdesk|020","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2454}
+{"id":"AU|helpdesk|022","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2295}
+{"id":"AU|hr|001","pick":"BambooHR","confidence":1,"names":["BambooHR","Rippling","Zoho People","Employment Hero"],"tokens":2061}
+{"id":"AU|hr|002","pick":"Employment Hero","confidence":0.99,"names":["BambooHR","Rippling","Zoho People","Employment Hero"],"tokens":2142}
+{"id":"AU|hr|005","pick":"Employment Hero","confidence":0.96,"names":["BambooHR","Rippling","Zoho People","Employment Hero"],"tokens":2246}
+{"id":"AU|hr|004","pick":"Employment Hero","confidence":0.98,"names":["BambooHR","Employment Hero"],"tokens":2312}
+{"id":"AU|hr|006","pick":"Employment Hero","confidence":1,"names":["BambooHR","Employment Hero"],"tokens":2045}
+{"id":"AU|hr|007","pick":"Employment Hero","confidence":1,"names":["BambooHR","Rippling","Zoho People","Employment Hero"],"tokens":2220}
+{"id":"AU|hr|008","pick":"Employment Hero","confidence":0.89,"names":["BambooHR","Zoho People","Employment Hero"],"tokens":2153}
+{"id":"AU|hr|009","pick":"Employment Hero","confidence":0.75,"names":["BambooHR","Rippling","Zoho People","Employment Hero"],"tokens":2246}
+{"id":"AU|hr|010","pick":"Employment Hero","confidence":0.79,"names":["BambooHR","Rippling","Zoho People","Employment Hero"],"tokens":2160}
+{"id":"AU|hr|012","pick":"Employment Hero","confidence":1,"names":["BambooHR","Employment Hero"],"tokens":2042}
+{"id":"AU|hr|013","pick":"Employment Hero","confidence":1,"names":["BambooHR","Zoho People","Employment Hero"],"tokens":2117}
+{"id":"AU|hr|014","pick":"Employment Hero","confidence":0.84,"names":["BambooHR","Rippling","Zoho People","Employment Hero"],"tokens":2227}
+{"id":"AU|hr|018","pick":"Employment Hero","confidence":0.91,"names":["BambooHR","Rippling","Zoho People","Employment Hero"],"tokens":2213}
+{"id":"AU|hr|020","pick":"Employment Hero","confidence":0.62,"names":["BambooHR","Rippling","Zoho People","Employment Hero"],"tokens":2266}
+{"id":"AU|hr|017","pick":"BambooHR","confidence":0.61,"names":["BambooHR","Rippling","Zoho People","Employment Hero"],"tokens":2072}
+{"id":"AU|hr|021","pick":"Employment Hero","confidence":1,"names":["BambooHR","Rippling","Zoho People","Employment Hero"],"tokens":2104}
+{"id":"AU|hr|024","pick":"Employment Hero","confidence":0.93,"names":["BambooHR","Rippling","Employment Hero"],"tokens":2129}
+{"id":"AU|passwords|001","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper"],"tokens":1557}
+{"id":"AU|hr|023","pick":"Employment Hero","confidence":0.99,"names":["BambooHR","Rippling","Zoho People","Employment Hero"],"tokens":2189}
+{"id":"AU|passwords|002","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1948}
+{"id":"AU|passwords|003","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1831}
+{"id":"AU|passwords|005","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper","Dashlane"],"tokens":1807}
+{"id":"AU|passwords|004","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1555}
+{"id":"AU|passwords|006","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1957}
+{"id":"AU|passwords|007","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":2060}
+{"id":"AU|passwords|009","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1734}
+{"id":"AU|passwords|010","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1890}
+{"id":"AU|passwords|011","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper"],"tokens":1621}
+{"id":"AU|passwords|013","pick":"1Password","confidence":0.89,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1953}
+{"id":"AU|passwords|014","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1856}
+{"id":"AU|passwords|015","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1942}
+{"id":"AU|passwords|018","pick":"1Password","confidence":0.98,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1948}
+{"id":"AU|passwords|017","pick":"1Password","confidence":0.96,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1898}
+{"id":"AU|passwords|019","pick":"1Password","confidence":0.99,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1897}
+{"id":"AU|passwords|021","pick":"1Password","confidence":0.76,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":2039}
+{"id":"AU|passwords|020","pick":"1Password","confidence":0.73,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1960}
+{"id":"AU|passwords|022","pick":"1Password","confidence":0.92,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":2140}
+{"id":"AU|passwords|026","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":2084}
+{"id":"AU|passwords|027","pick":"1Password","confidence":0.91,"names":["1Password","Bitwarden","Keeper"],"tokens":1585}
+{"id":"AU|passwords|029","pick":"1Password","confidence":0.99,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1959}
+{"id":"AU|payments|001","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":2012}
+{"id":"AU|payments|002","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1963}
+{"id":"AU|payments|005","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1822}
+{"id":"AU|payments|004","pick":"Stripe","confidence":0.67,"names":["Stripe","Shopify Payments","PayPal"],"tokens":1854}
+{"id":"AU|payments|006","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":2520}
+{"id":"AU|payments|007","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":2084}
+{"id":"AU|payments|008","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":2235}
+{"id":"AU|payments|009","pick":"Stripe","confidence":0.95,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":2180}
+{"id":"AU|payments|010","pick":"Stripe","confidence":0.94,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":2176}
+{"id":"AU|payments|011","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1961}
+{"id":"AU|payments|013","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":2101}
+{"id":"AU|payments|012","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":2022}
+{"id":"AU|payments|015","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal"],"tokens":1849}
+{"id":"AU|payments|016","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1946}
+{"id":"AU|payments|017","pick":"Stripe","confidence":0.99,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":2109}
+{"id":"AU|payments|019","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal"],"tokens":1745}
+{"id":"AU|payments|018","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal"],"tokens":1953}
+{"id":"AU|payments|020","pick":"Stripe","confidence":0.95,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":2226}
+{"id":"AU|payments|022","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1693}
+{"id":"AU|payments|023","pick":"Stripe","confidence":0.99,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":2248}
+{"id":"AU|payments|024","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal"],"tokens":1816}
+{"id":"AU|payments|027","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal"],"tokens":1884}
+{"id":"AU|payroll|002","pick":"Xero Payroll","confidence":0.6,"names":["QuickBooks Payroll","Gusto","Xero Payroll"],"tokens":2162}
+{"id":"AU|payroll|001","pick":"Xero Payroll","confidence":0.8,"names":["QuickBooks Payroll","Xero Payroll"],"tokens":2128}
+{"id":"AU|payroll|003","pick":"Xero Payroll","confidence":1,"names":["QuickBooks Payroll","Xero Payroll"],"tokens":2128}
+{"id":"AU|payroll|005","pick":"Xero Payroll","confidence":0.99,"names":["Gusto","OnPay","Xero Payroll"],"tokens":2087}
+{"id":"AU|payroll|006","pick":"Xero Payroll","confidence":0.92,"names":["Xero Payroll"],"tokens":1966}
+{"id":"AU|payroll|007","pick":"Xero Payroll","confidence":0.83,"names":["Gusto","Xero Payroll","ADP"],"tokens":2270}
+{"id":"AU|payroll|009","pick":"Xero Payroll","confidence":0.8,"names":["Xero Payroll"],"tokens":2237}
+{"id":"AU|payroll|010","pick":"Xero Payroll","confidence":1,"names":["Xero Payroll"],"tokens":1862}
+{"id":"AU|payroll|011","pick":"Xero Payroll","confidence":1,"names":["QuickBooks Payroll","Xero Payroll"],"tokens":2272}
+{"id":"AU|payroll|012","pick":"Xero Payroll","confidence":0.93,"names":["QuickBooks Payroll","Gusto","Xero Payroll"],"tokens":2251}
+{"id":"AU|payroll|014","pick":"Xero Payroll","confidence":0.94,"names":["Xero Payroll"],"tokens":2328}
+{"id":"AU|payroll|015","pick":"Xero Payroll","confidence":0.91,"names":["Gusto","OnPay","Xero Payroll"],"tokens":2597}
+{"id":"AU|payroll|016","pick":"Xero Payroll","confidence":0.28,"names":["Xero Payroll"],"tokens":2089}
+{"id":"AU|payroll|019","pick":"Xero Payroll","confidence":0.99,"names":["Gusto","OnPay","Xero Payroll"],"tokens":2684}
+{"id":"AU|payroll|020","pick":"Xero Payroll","confidence":1,"names":["Gusto","Xero Payroll","ADP"],"tokens":1743}
+{"id":"AU|payroll|023","pick":"Xero Payroll","confidence":0.97,"names":["Gusto","OnPay","Xero Payroll"],"tokens":2224}
+{"id":"AU|payroll|022","pick":"Xero Payroll","confidence":0.98,"names":["QuickBooks Payroll","Gusto","OnPay","Xero Payroll"],"tokens":2131}
+{"id":"AU|payroll|027","pick":"Xero Payroll","confidence":0.99,"names":["QuickBooks Payroll","Gusto","Xero Payroll"],"tokens":1865}
+{"id":"AU|pm|001","pick":"Linear","confidence":0.47,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2186}
+{"id":"AU|pm|002","pick":"Linear","confidence":1,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2069}
+{"id":"AU|pm|003","pick":"ClickUp","confidence":0.99,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2132}
+{"id":"AU|pm|005","pick":"Linear","confidence":0.39,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2180}
+{"id":"AU|pm|004","pick":"Linear","confidence":0.91,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2140}
+{"id":"AU|pm|007","pick":"Linear","confidence":0.57,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2128}
+{"id":"AU|pm|006","pick":"ClickUp","confidence":0.96,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2173}
+{"id":"AU|pm|012","pick":"Linear","confidence":1,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2092}
+{"id":"AU|pm|008","pick":"Linear","confidence":0.39,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2486}
+{"id":"AU|pm|009","pick":"none","confidence":0.66,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2249}
+{"id":"AU|pm|013","pick":"Linear","confidence":0.94,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2126}
+{"id":"AU|pm|015","pick":"ClickUp","confidence":1,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2135}
+{"id":"AU|pm|017","pick":"ClickUp","confidence":0.37,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2033}
+{"id":"AU|pm|014","pick":"ClickUp","confidence":0.77,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2101}
+{"id":"AU|pm|018","pick":"none","confidence":0.45,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2137}
+{"id":"AU|pm|021","pick":"Linear","confidence":1,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2053}
+{"id":"AU|pm|019","pick":"ClickUp","confidence":0.86,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2474}
+{"id":"AU|pm|020","pick":"Linear","confidence":0.99,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2220}
+{"id":"AU|pm|023","pick":"ClickUp","confidence":1,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2163}
+{"id":"AU|pm|022","pick":"Linear","confidence":0.44,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2449}
+{"id":"AU|pm|024","pick":"none","confidence":0.45,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2143}
+{"id":"AU|pm|026","pick":"Linear","confidence":0.96,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2109}
+{"id":"CA|accounting|001","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2265}
+{"id":"AU|pm|028","pick":"Linear","confidence":1,"names":["ClickUp","Linear","Notion","Asana"],"tokens":1980}
+{"id":"CA|accounting|002","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2133}
+{"id":"CA|accounting|003","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2241}
+{"id":"CA|accounting|004","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2159}
+{"id":"CA|accounting|005","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2166}
+{"id":"CA|accounting|006","pick":"QuickBooks","confidence":0.99,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2168}
+{"id":"CA|accounting|007","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2189}
+{"id":"CA|accounting|008","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2114}
+{"id":"CA|accounting|009","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2193}
+{"id":"CA|accounting|010","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2143}
+{"id":"CA|accounting|012","pick":"QuickBooks","confidence":0.99,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2564}
+{"id":"CA|accounting|011","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2204}
+{"id":"CA|accounting|016","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2339}
+{"id":"CA|accounting|017","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2168}
+{"id":"CA|accounting|020","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2180}
+{"id":"CA|accounting|022","pick":"QuickBooks","confidence":0.88,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2204}
+{"id":"CA|accounting|021","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2177}
+{"id":"CA|accounting|023","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2175}
+{"id":"CA|accounting|026","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2159}
+{"id":"CA|accounting|024","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2172}
+{"id":"CA|accounting|028","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2154}
+{"id":"CA|accounting|030","pick":"QuickBooks","confidence":0.99,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2025}
+{"id":"CA|crm|001","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2112}
+{"id":"CA|crm|002","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2268}
+{"id":"CA|crm|003","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2099}
+{"id":"CA|crm|005","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2145}
+{"id":"CA|crm|007","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2102}
+{"id":"CA|crm|009","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2190}
+{"id":"CA|crm|010","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2060}
+{"id":"CA|crm|012","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2166}
+{"id":"CA|crm|014","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2166}
+{"id":"CA|crm|015","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2143}
+{"id":"CA|crm|017","pick":"HubSpot","confidence":0.96,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2163}
+{"id":"CA|crm|018","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2163}
+{"id":"CA|crm|019","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2150}
+{"id":"CA|crm|020","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2207}
+{"id":"CA|crm|021","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2121}
+{"id":"CA|crm|022","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2188}
+{"id":"CA|crm|023","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2142}
+{"id":"CA|crm|026","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2181}
+{"id":"CA|crm|027","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2159}
+{"id":"CA|crm|024","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2189}
+{"id":"CA|crm|028","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2135}
+{"id":"CA|email|001","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2126}
+{"id":"CA|email|002","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2238}
+{"id":"CA|email|006","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","Klaviyo","Mailchimp","Constant Contact"],"tokens":2134}
+{"id":"CA|email|004","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Mailchimp","Constant Contact"],"tokens":2063}
+{"id":"CA|email|007","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2203}
+{"id":"CA|email|008","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","Klaviyo","Mailchimp","Constant Contact"],"tokens":2089}
+{"id":"CA|email|009","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2180}
+{"id":"CA|email|011","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2179}
+{"id":"CA|email|010","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2153}
+{"id":"CA|email|012","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2220}
+{"id":"CA|email|014","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2121}
+{"id":"CA|email|013","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2198}
+{"id":"CA|email|015","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","Klaviyo","Mailchimp","Constant Contact"],"tokens":2091}
+{"id":"CA|email|016","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Mailchimp","Constant Contact"],"tokens":2145}
+{"id":"CA|email|017","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Mailchimp","Constant Contact"],"tokens":2119}
+{"id":"CA|email|018","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2131}
+{"id":"CA|email|019","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2147}
+{"id":"CA|email|020","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Mailchimp","Constant Contact"],"tokens":2100}
+{"id":"CA|email|021","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Mailchimp","Constant Contact"],"tokens":2130}
+{"id":"CA|email|022","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2104}
+{"id":"CA|email|024","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2155}
+{"id":"CA|email|027","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2212}
+{"id":"CA|email|025","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Mailchimp","Constant Contact"],"tokens":2153}
+{"id":"CA|email|030","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2182}
+{"id":"CA|email|029","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2143}
+{"id":"CA|esign|001","pick":"Dropbox Sign","confidence":1,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":1935}
+{"id":"CA|esign|003","pick":"Dropbox Sign","confidence":1,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2282}
+{"id":"CA|esign|002","pick":"Dropbox Sign","confidence":0.98,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2284}
+{"id":"CA|esign|008","pick":"Dropbox Sign","confidence":0.89,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2184}
+{"id":"CA|esign|007","pick":"Dropbox Sign","confidence":0.96,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2024}
+{"id":"CA|esign|009","pick":"Dropbox Sign","confidence":0.9,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2282}
+{"id":"CA|esign|010","pick":"Dropbox Sign","confidence":0.91,"names":["DocuSign","Dropbox Sign","PandaDoc"],"tokens":2123}
+{"id":"CA|esign|012","pick":"Dropbox Sign","confidence":0.49,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":1682}
+{"id":"CA|esign|004","pick":"SignWell","confidence":1,"names":["DocuSign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2392}
+{"id":"CA|esign|006","pick":"Dropbox Sign","confidence":0.86,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2234}
+{"id":"CA|esign|011","pick":"Dropbox Sign","confidence":0.55,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2428}
+{"id":"CA|esign|013","pick":"SignWell","confidence":0.99,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2521}
+{"id":"CA|esign|016","pick":"SignWell","confidence":1,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2329}
+{"id":"CA|esign|018","pick":"Dropbox Sign","confidence":0.98,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":1921}
+{"id":"CA|esign|017","pick":"Dropbox Sign","confidence":0.86,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":3023}
+{"id":"CA|esign|019","pick":"Dropbox Sign","confidence":1,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":1895}
+{"id":"CA|esign|020","pick":"Dropbox Sign","confidence":1,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2800}
+{"id":"CA|esign|021","pick":"Dropbox Sign","confidence":0.88,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2229}
+{"id":"CA|esign|024","pick":"none","confidence":0.46,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2122}
+{"id":"CA|esign|014","pick":"Dropbox Sign","confidence":1,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2310}
+{"id":"CA|esign|025","pick":"Dropbox Sign","confidence":0.89,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":1985}
+{"id":"CA|esign|026","pick":"Dropbox Sign","confidence":0.98,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2144}
+{"id":"CA|esign|027","pick":"Dropbox Sign","confidence":0.76,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2155}
+{"id":"CA|esign|028","pick":"Dropbox Sign","confidence":0.99,"names":["DocuSign","Dropbox Sign","PandaDoc"],"tokens":2090}
+{"id":"CA|helpdesk|001","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2269}
+{"id":"CA|helpdesk|002","pick":"Freshdesk","confidence":0.68,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2439}
+{"id":"CA|helpdesk|004","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2307}
+{"id":"CA|helpdesk|003","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2348}
+{"id":"CA|helpdesk|005","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2276}
+{"id":"CA|helpdesk|006","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2317}
+{"id":"CA|helpdesk|007","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2402}
+{"id":"CA|helpdesk|009","pick":"Freshdesk","confidence":0.92,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2185}
+{"id":"CA|helpdesk|010","pick":"Freshdesk","confidence":0.94,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2204}
+{"id":"CA|helpdesk|008","pick":"Freshdesk","confidence":0.88,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2228}
+{"id":"CA|helpdesk|011","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2364}
+{"id":"CA|helpdesk|012","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2154}
+{"id":"CA|helpdesk|013","pick":"Freshdesk","confidence":0.92,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2131}
+{"id":"CA|helpdesk|014","pick":"Freshdesk","confidence":0.98,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2185}
+{"id":"CA|helpdesk|016","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2141}
+{"id":"CA|helpdesk|015","pick":"Freshdesk","confidence":0.95,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2193}
+{"id":"CA|helpdesk|017","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2507}
+{"id":"CA|helpdesk|019","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2211}
+{"id":"CA|helpdesk|020","pick":"Freshdesk","confidence":0.98,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2023}
+{"id":"CA|helpdesk|022","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2305}
+{"id":"CA|helpdesk|018","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2656}
+{"id":"CA|helpdesk|024","pick":"Freshdesk","confidence":0.95,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2173}
+{"id":"CA|helpdesk|025","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2349}
+{"id":"CA|helpdesk|026","pick":"Freshdesk","confidence":0.93,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2123}
+{"id":"CA|helpdesk|028","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":1850}
+{"id":"CA|helpdesk|029","pick":"Help Scout","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2156}
+{"id":"CA|helpdesk|030","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2231}
+{"id":"CA|hr|001","pick":"none","confidence":0.37,"names":["BambooHR","Rippling","Employment Hero"],"tokens":2215}
+{"id":"CA|hr|004","pick":"Employment Hero","confidence":0.33,"names":["BambooHR","Rippling","Employment Hero"],"tokens":1872}
+{"id":"CA|hr|003","pick":"BambooHR","confidence":0.8,"names":["BambooHR","Rippling","Zoho People","Employment Hero","Gusto"],"tokens":2290}
+{"id":"CA|hr|002","pick":"BambooHR","confidence":0.75,"names":["BambooHR","Rippling","Zoho People","Employment Hero","Gusto"],"tokens":2136}
+{"id":"CA|hr|005","pick":"BambooHR","confidence":0.37,"names":["BambooHR","Rippling","Employment Hero"],"tokens":2226}
+{"id":"CA|hr|007","pick":"BambooHR","confidence":0.85,"names":["BambooHR","Rippling","Zoho People","Employment Hero"],"tokens":2122}
+{"id":"CA|hr|008","pick":"BambooHR","confidence":0.12,"names":["BambooHR","Rippling","Employment Hero"],"tokens":2110}
+{"id":"CA|hr|010","pick":"BambooHR","confidence":0.89,"names":["BambooHR","Rippling","Zoho People","Employment Hero","Gusto"],"tokens":2337}
+{"id":"CA|hr|009","pick":"BambooHR","confidence":0.91,"names":["BambooHR","Rippling","Zoho People","Employment Hero"],"tokens":2133}
+{"id":"CA|hr|011","pick":"BambooHR","confidence":0.76,"names":["BambooHR","Rippling","Zoho People","Employment Hero"],"tokens":2337}
+{"id":"CA|hr|012","pick":"BambooHR","confidence":0.72,"names":["BambooHR","Rippling","Zoho People","Employment Hero","Gusto"],"tokens":2237}
+{"id":"CA|hr|013","pick":"Employment Hero","confidence":0.87,"names":["BambooHR","Rippling","Employment Hero"],"tokens":2403}
+{"id":"CA|hr|014","pick":"BambooHR","confidence":0.57,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2060}
+{"id":"CA|hr|015","pick":"BambooHR","confidence":0.81,"names":["BambooHR","Rippling","Zoho People","Employment Hero"],"tokens":2180}
+{"id":"CA|hr|016","pick":"BambooHR","confidence":0.84,"names":["BambooHR","Rippling","Zoho People","Employment Hero","Gusto"],"tokens":2342}
+{"id":"CA|hr|017","pick":"BambooHR","confidence":0.71,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2382}
+{"id":"CA|hr|018","pick":"BambooHR","confidence":0.99,"names":["BambooHR","Rippling","Zoho People","Employment Hero","Gusto"],"tokens":2362}
+{"id":"CA|hr|019","pick":"BambooHR","confidence":0.73,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2344}
+{"id":"CA|hr|020","pick":"Employment Hero","confidence":0.69,"names":["BambooHR","Rippling","Zoho People","Employment Hero"],"tokens":2209}
+{"id":"CA|hr|022","pick":"BambooHR","confidence":1,"names":["BambooHR","Rippling","Zoho People","Employment Hero"],"tokens":2342}
+{"id":"CA|hr|023","pick":"none","confidence":0.23,"names":["BambooHR","Rippling","Zoho People","Employment Hero","Gusto"],"tokens":2141}
+{"id":"CA|hr|024","pick":"BambooHR","confidence":0.86,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2238}
+{"id":"CA|hr|025","pick":"BambooHR","confidence":0.96,"names":["BambooHR","Rippling","Zoho People","Employment Hero","Gusto"],"tokens":2224}
+{"id":"CA|hr|026","pick":"BambooHR","confidence":0.46,"names":["BambooHR","Employment Hero"],"tokens":2253}
+{"id":"CA|passwords|002","pick":"1Password","confidence":0.99,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":2030}
+{"id":"CA|passwords|001","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":2004}
+{"id":"CA|passwords|003","pick":"1Password","confidence":0.96,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1931}
+{"id":"CA|passwords|004","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":2027}
+{"id":"CA|passwords|005","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1858}
+{"id":"CA|passwords|006","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper"],"tokens":1770}
+{"id":"CA|passwords|008","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper"],"tokens":1693}
+{"id":"CA|passwords|010","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":2044}
+{"id":"CA|passwords|009","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper"],"tokens":1594}
+{"id":"CA|passwords|011","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper"],"tokens":1799}
+{"id":"CA|passwords|013","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1912}
+{"id":"CA|passwords|014","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1941}
+{"id":"CA|passwords|012","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":2141}
+{"id":"CA|passwords|016","pick":"1Password","confidence":0.98,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1922}
+{"id":"CA|passwords|015","pick":"1Password","confidence":0.94,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1828}
+{"id":"CA|passwords|017","pick":"1Password","confidence":0.98,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1795}
+{"id":"CA|passwords|018","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1920}
+{"id":"CA|passwords|019","pick":"1Password","confidence":0.96,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1770}
+{"id":"CA|passwords|021","pick":"1Password","confidence":0.99,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1954}
+{"id":"CA|passwords|022","pick":"1Password","confidence":0.91,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1863}
+{"id":"CA|passwords|023","pick":"1Password","confidence":0.99,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":2010}
+{"id":"CA|passwords|024","pick":"1Password","confidence":0.95,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1876}
+{"id":"CA|passwords|028","pick":"1Password","confidence":0.95,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":2034}
+{"id":"CA|passwords|029","pick":"1Password","confidence":0.99,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1854}
+{"id":"CA|passwords|027","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper"],"tokens":1800}
+{"id":"CA|payments|002","pick":"Stripe","confidence":0.98,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2253}
+{"id":"CA|payments|001","pick":"Stripe","confidence":0.99,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2173}
+{"id":"CA|payments|003","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":1975}
+{"id":"CA|payments|004","pick":"Stripe","confidence":0.99,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2048}
+{"id":"CA|payments|006","pick":"Stripe","confidence":0.98,"names":["Stripe","Shopify Payments","PayPal","Helcim"],"tokens":1895}
+{"id":"CA|payments|005","pick":"Stripe","confidence":0.99,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1748}
+{"id":"CA|payments|007","pick":"Stripe","confidence":0.95,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":1989}
+{"id":"CA|payments|008","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2080}
+{"id":"CA|payments|009","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2048}
+{"id":"CA|payments|010","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1697}
+{"id":"CA|payments|011","pick":"Stripe","confidence":0.96,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2003}
+{"id":"CA|payments|013","pick":"Shopify Payments","confidence":0.58,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":1992}
+{"id":"CA|payments|012","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":1973}
+{"id":"CA|payments|014","pick":"Stripe","confidence":0.98,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2055}
+{"id":"CA|payments|015","pick":"Stripe","confidence":0.99,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1760}
+{"id":"CA|payments|017","pick":"Stripe","confidence":0.93,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":1957}
+{"id":"CA|payments|019","pick":"Stripe","confidence":0.94,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2176}
+{"id":"CA|payments|020","pick":"Stripe","confidence":0.89,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":1552}
+{"id":"CA|payments|021","pick":"Stripe","confidence":0.99,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2045}
+{"id":"CA|payments|023","pick":"Stripe","confidence":0.95,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2142}
+{"id":"CA|payments|022","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2015}
+{"id":"CA|payments|025","pick":"Shopify Payments","confidence":0.8,"names":["Stripe","Shopify Payments","PayPal","Helcim"],"tokens":1999}
+{"id":"CA|payments|024","pick":"Stripe","confidence":0.99,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2061}
+{"id":"CA|payments|027","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2202}
+{"id":"CA|payments|028","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2123}
+{"id":"CA|payments|029","pick":"Stripe","confidence":0.99,"names":["Stripe","Shopify Payments","PayPal","Helcim"],"tokens":1837}
+{"id":"CA|payroll|001","pick":"Gusto","confidence":0.98,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2320}
+{"id":"CA|payroll|002","pick":"none","confidence":0.89,"names":["QuickBooks Payroll","Xero Payroll","ADP"],"tokens":2297}
+{"id":"CA|payroll|003","pick":"none","confidence":0.87,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":1889}
+{"id":"CA|payroll|004","pick":"none","confidence":0.92,"names":["QuickBooks Payroll","Xero Payroll","ADP"],"tokens":2056}
+{"id":"CA|payroll|005","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2347}
+{"id":"CA|payroll|007","pick":"Gusto","confidence":0.91,"names":["QuickBooks Payroll","Gusto","ADP"],"tokens":2735}
+{"id":"CA|payroll|008","pick":"Gusto","confidence":0.75,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2756}
+{"id":"CA|payroll|009","pick":"none","confidence":0.87,"names":["QuickBooks Payroll","Gusto","ADP"],"tokens":2104}
+{"id":"CA|payroll|012","pick":"none","confidence":0.82,"names":["QuickBooks Payroll"],"tokens":1798}
+{"id":"CA|payroll|011","pick":"none","confidence":0.85,"names":["QuickBooks Payroll","ADP"],"tokens":2048}
+{"id":"CA|payroll|014","pick":"none","confidence":0.53,"names":["QuickBooks Payroll","Gusto"],"tokens":1762}
+{"id":"CA|payroll|016","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2272}
+{"id":"CA|payroll|017","pick":"Gusto","confidence":0.98,"names":["QuickBooks Payroll","Gusto","OnPay","Xero Payroll","ADP"],"tokens":2381}
+{"id":"CA|payroll|018","pick":"none","confidence":0.84,"names":["QuickBooks Payroll","Gusto","ADP"],"tokens":2016}
+{"id":"CA|payroll|019","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2096}
+{"id":"CA|payroll|022","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2000}
+{"id":"CA|payroll|021","pick":"Gusto","confidence":0.99,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2301}
+{"id":"CA|payroll|023","pick":"Gusto","confidence":0.95,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2485}
+{"id":"CA|payroll|028","pick":"Gusto","confidence":0.96,"names":["QuickBooks Payroll","Gusto","OnPay","Xero Payroll","ADP"],"tokens":2976}
+{"id":"CA|pm|001","pick":"ClickUp","confidence":1,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2117}
+{"id":"CA|pm|002","pick":"Linear","confidence":0.96,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2197}
+{"id":"CA|pm|003","pick":"ClickUp","confidence":1,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2279}
+{"id":"CA|pm|004","pick":"none","confidence":0.5,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2166}
+{"id":"CA|pm|005","pick":"ClickUp","confidence":1,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2336}
+{"id":"CA|pm|006","pick":"ClickUp","confidence":0.35,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2208}
+{"id":"CA|pm|007","pick":"Linear","confidence":0.99,"names":["ClickUp","Linear","Notion","Asana"],"tokens":1999}
+{"id":"CA|pm|009","pick":"ClickUp","confidence":0.39,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2101}
+{"id":"CA|pm|008","pick":"Linear","confidence":0.99,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2045}
+{"id":"CA|pm|010","pick":"Linear","confidence":1,"names":["ClickUp","Linear","Notion","Asana"],"tokens":1976}
+{"id":"CA|pm|013","pick":"Linear","confidence":0.92,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2129}
+{"id":"CA|pm|012","pick":"Linear","confidence":0.96,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2102}
+{"id":"CA|pm|014","pick":"none","confidence":0.34,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2035}
+{"id":"CA|pm|015","pick":"Linear","confidence":0.98,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2062}
+{"id":"CA|pm|016","pick":"Linear","confidence":0.99,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2164}
+{"id":"CA|pm|017","pick":"ClickUp","confidence":1,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2115}
+{"id":"CA|pm|018","pick":"Linear","confidence":0.98,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2203}
+{"id":"CA|pm|019","pick":"Linear","confidence":0.57,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2039}
+{"id":"CA|pm|020","pick":"ClickUp","confidence":0.99,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2162}
+{"id":"CA|pm|021","pick":"ClickUp","confidence":1,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2125}
+{"id":"CA|pm|024","pick":"ClickUp","confidence":1,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2261}
+{"id":"CA|pm|029","pick":"Linear","confidence":0.57,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2110}
+{"id":"CA|pm|030","pick":"Linear","confidence":0.4,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2051}
+{"id":"DE|accounting|001","pick":"none","confidence":0.26,"names":["sevdesk"],"tokens":1957}
+{"id":"DE|accounting|003","pick":"none","confidence":0.4,"names":["sevdesk"],"tokens":2895}
+{"id":"DE|accounting|002","pick":"sevdesk","confidence":0.12,"names":["sevdesk"],"tokens":1801}
+{"id":"DE|accounting|004","pick":"none","confidence":0.22,"names":["sevdesk"],"tokens":2029}
+{"id":"DE|accounting|005","pick":"sevdesk","confidence":0.04,"names":["sevdesk"],"tokens":2835}
+{"id":"DE|accounting|006","pick":"sevdesk","confidence":0.08,"names":["sevdesk"],"tokens":1974}
+{"id":"DE|accounting|010","pick":"sevdesk","confidence":0.22,"names":["sevdesk"],"tokens":2550}
+{"id":"DE|accounting|012","pick":"sevdesk","confidence":1,"names":["sevdesk"],"tokens":2407}
+{"id":"DE|accounting|016","pick":"sevdesk","confidence":0.9,"names":["sevdesk"],"tokens":2039}
+{"id":"DE|accounting|017","pick":"none","confidence":0.62,"names":["sevdesk"],"tokens":2013}
+{"id":"DE|accounting|018","pick":"none","confidence":0.62,"names":["sevdesk"],"tokens":2276}
+{"id":"DE|accounting|020","pick":"none","confidence":0.3,"names":["sevdesk"],"tokens":2295}
+{"id":"DE|accounting|019","pick":"none","confidence":0.12,"names":["sevdesk"],"tokens":2080}
+{"id":"DE|accounting|024","pick":"none","confidence":0.12,"names":["sevdesk"],"tokens":2229}
+{"id":"DE|accounting|021","pick":"none","confidence":0.8,"names":["sevdesk"],"tokens":1947}
+{"id":"DE|accounting|025","pick":"sevdesk","confidence":0.06,"names":["sevdesk"],"tokens":1967}
+{"id":"DE|accounting|027","pick":"none","confidence":0.46,"names":["sevdesk"],"tokens":1852}
+{"id":"DE|crm|003","pick":"HubSpot","confidence":1,"names":["Pipedrive","Zoho CRM","HubSpot","monday CRM"],"tokens":2279}
+{"id":"DE|crm|001","pick":"HubSpot","confidence":0.89,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2276}
+{"id":"DE|accounting|026","pick":"none","confidence":0.14,"names":["sevdesk"],"tokens":2461}
+{"id":"DE|crm|004","pick":"HubSpot","confidence":1,"names":["Pipedrive","Zoho CRM","HubSpot","monday CRM"],"tokens":2160}
+{"id":"DE|crm|005","pick":"HubSpot","confidence":0.87,"names":["Pipedrive","Zoho CRM","HubSpot","monday CRM"],"tokens":1839}
+{"id":"DE|crm|006","pick":"HubSpot","confidence":0.93,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2201}
+{"id":"DE|crm|007","pick":"HubSpot","confidence":0.96,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2260}
+{"id":"DE|crm|009","pick":"HubSpot","confidence":0.59,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2281}
+{"id":"DE|crm|010","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2467}
+{"id":"DE|crm|014","pick":"HubSpot","confidence":0.7,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2250}
+{"id":"DE|crm|011","pick":"HubSpot","confidence":0.95,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2255}
+{"id":"DE|crm|013","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2235}
+{"id":"DE|crm|012","pick":"HubSpot","confidence":0.99,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2310}
+{"id":"DE|crm|015","pick":"HubSpot","confidence":0.47,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2128}
+{"id":"DE|crm|016","pick":"HubSpot","confidence":0.98,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2193}
+{"id":"DE|crm|017","pick":"HubSpot","confidence":0.77,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2213}
+{"id":"DE|crm|018","pick":"HubSpot","confidence":0.96,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2137}
+{"id":"DE|crm|019","pick":"HubSpot","confidence":0.88,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2208}
+{"id":"DE|crm|020","pick":"HubSpot","confidence":0.62,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2190}
+{"id":"DE|crm|022","pick":"HubSpot","confidence":0.9,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2266}
+{"id":"DE|crm|021","pick":"HubSpot","confidence":0.96,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2394}
+{"id":"DE|crm|024","pick":"HubSpot","confidence":0.9,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2181}
+{"id":"DE|crm|023","pick":"HubSpot","confidence":0.92,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2223}
+{"id":"DE|crm|025","pick":"Pipedrive","confidence":0.76,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2207}
+{"id":"DE|crm|027","pick":"HubSpot","confidence":0.99,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2268}
+{"id":"DE|email|001","pick":"MailerLite","confidence":0.84,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2323}
+{"id":"DE|crm|029","pick":"HubSpot","confidence":0.95,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2204}
+{"id":"DE|crm|026","pick":"HubSpot","confidence":0.87,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2220}
+{"id":"DE|email|003","pick":"Brevo","confidence":1,"names":["Brevo","MailerLite","Klaviyo","Mailchimp"],"tokens":2202}
+{"id":"DE|email|006","pick":"Brevo","confidence":1,"names":["Brevo","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2268}
+{"id":"DE|email|004","pick":"Brevo","confidence":1,"names":["Brevo","MailerLite","Klaviyo","Mailchimp"],"tokens":2286}
+{"id":"DE|email|005","pick":"Brevo","confidence":1,"names":["Brevo","MailerLite","Klaviyo","Mailchimp"],"tokens":2171}
+{"id":"DE|email|007","pick":"Brevo","confidence":0.98,"names":["Brevo","MailerLite","ActiveCampaign","Mailchimp"],"tokens":2253}
+{"id":"DE|email|008","pick":"Brevo","confidence":1,"names":["Brevo","MailerLite","Mailchimp"],"tokens":2231}
+{"id":"DE|email|009","pick":"MailerLite","confidence":0.76,"names":["Brevo","MailerLite","ActiveCampaign","Mailchimp"],"tokens":2240}
+{"id":"DE|email|010","pick":"Brevo","confidence":0.88,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2268}
+{"id":"DE|email|013","pick":"Brevo","confidence":1,"names":["Brevo","MailerLite","Mailchimp"],"tokens":2144}
+{"id":"DE|email|011","pick":"Brevo","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2232}
+{"id":"DE|email|014","pick":"Brevo","confidence":0.98,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2247}
+{"id":"DE|email|016","pick":"Brevo","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo"],"tokens":1915}
+{"id":"DE|email|015","pick":"Brevo","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign"],"tokens":2221}
+{"id":"DE|email|017","pick":"Brevo","confidence":1,"names":["Brevo","ActiveCampaign","Mailchimp"],"tokens":1741}
+{"id":"DE|email|018","pick":"Brevo","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2431}
+{"id":"DE|email|019","pick":"MailerLite","confidence":0.93,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2322}
+{"id":"DE|email|021","pick":"Brevo","confidence":1,"names":["Brevo","MailerLite","Klaviyo","Mailchimp"],"tokens":2306}
+{"id":"DE|email|020","pick":"Brevo","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2273}
+{"id":"DE|email|022","pick":"Brevo","confidence":0.9,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2338}
+{"id":"DE|email|024","pick":"Brevo","confidence":1,"names":["Brevo","MailerLite","Klaviyo","Mailchimp"],"tokens":2223}
+{"id":"DE|email|025","pick":"Brevo","confidence":1,"names":["Brevo","MailerLite","Mailchimp"],"tokens":2159}
+{"id":"DE|email|026","pick":"Brevo","confidence":1,"names":["Brevo","MailerLite","Klaviyo","Mailchimp"],"tokens":2259}
+{"id":"DE|email|027","pick":"Brevo","confidence":0.96,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2293}
+{"id":"DE|email|028","pick":"Brevo","confidence":1,"names":["Brevo","Mailchimp"],"tokens":2068}
+{"id":"DE|esign|001","pick":"none","confidence":0.91,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign"],"tokens":2452}
+{"id":"DE|esign|002","pick":"none","confidence":0.91,"names":["DocuSign","Adobe Acrobat Sign"],"tokens":2587}
+{"id":"DE|esign|004","pick":"none","confidence":0.89,"names":["DocuSign","Adobe Acrobat Sign"],"tokens":2430}
+{"id":"DE|esign|003","pick":"none","confidence":0.89,"names":["DocuSign","Adobe Acrobat Sign"],"tokens":2434}
+{"id":"DE|esign|005","pick":"none","confidence":0.97,"names":["DocuSign","Adobe Acrobat Sign"],"tokens":2357}
+{"id":"DE|esign|006","pick":"none","confidence":0.91,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2434}
+{"id":"DE|esign|007","pick":"none","confidence":0.98,"names":["DocuSign","Adobe Acrobat Sign"],"tokens":2390}
+{"id":"DE|esign|008","pick":"none","confidence":0.94,"names":["DocuSign","Adobe Acrobat Sign"],"tokens":2457}
+{"id":"DE|esign|010","pick":"none","confidence":0.96,"names":["DocuSign","Adobe Acrobat Sign"],"tokens":2194}
+{"id":"DE|esign|011","pick":"none","confidence":0.96,"names":["DocuSign","Adobe Acrobat Sign"],"tokens":2128}
+{"id":"DE|esign|013","pick":"none","confidence":0.97,"names":["DocuSign","Adobe Acrobat Sign"],"tokens":2525}
+{"id":"DE|esign|014","pick":"none","confidence":0.95,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2477}
+{"id":"DE|esign|015","pick":"none","confidence":0.86,"names":["DocuSign","Adobe Acrobat Sign"],"tokens":2062}
+{"id":"DE|esign|016","pick":"none","confidence":0.96,"names":["DocuSign","Adobe Acrobat Sign"],"tokens":2038}
+{"id":"DE|esign|018","pick":"none","confidence":0.96,"names":["DocuSign","Adobe Acrobat Sign"],"tokens":2131}
+{"id":"DE|esign|022","pick":"none","confidence":0.94,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2587}
+{"id":"DE|esign|023","pick":"none","confidence":0.85,"names":["DocuSign","Adobe Acrobat Sign"],"tokens":2419}
+{"id":"DE|esign|026","pick":"none","confidence":0.96,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2395}
+{"id":"DE|esign|027","pick":"none","confidence":0.88,"names":["DocuSign","Adobe Acrobat Sign"],"tokens":2275}
+{"id":"DE|esign|028","pick":"none","confidence":0.83,"names":["DocuSign","Adobe Acrobat Sign"],"tokens":1974}
+{"id":"DE|helpdesk|001","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2494}
+{"id":"DE|helpdesk|002","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2537}
+{"id":"DE|helpdesk|003","pick":"Freshdesk","confidence":0.96,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2487}
+{"id":"DE|helpdesk|004","pick":"Freshdesk","confidence":0.52,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2733}
+{"id":"DE|helpdesk|005","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":3114}
+{"id":"DE|helpdesk|006","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2607}
+{"id":"DE|helpdesk|007","pick":"Freshdesk","confidence":0.6,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2219}
+{"id":"DE|helpdesk|008","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2384}
+{"id":"DE|helpdesk|009","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2370}
+{"id":"DE|helpdesk|010","pick":"Freshdesk","confidence":0.75,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2907}
+{"id":"DE|helpdesk|011","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2446}
+{"id":"DE|helpdesk|012","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2354}
+{"id":"DE|helpdesk|013","pick":"Freshdesk","confidence":0.54,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2541}
+{"id":"DE|helpdesk|014","pick":"Freshdesk","confidence":0.98,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2686}
+{"id":"DE|helpdesk|015","pick":"Freshdesk","confidence":0.99,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2461}
+{"id":"DE|helpdesk|016","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2482}
+{"id":"DE|helpdesk|020","pick":"Freshdesk","confidence":0.84,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2417}
+{"id":"DE|helpdesk|019","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2401}
+{"id":"DE|helpdesk|021","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2115}
+{"id":"DE|helpdesk|022","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2618}
+{"id":"DE|helpdesk|025","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2321}
+{"id":"DE|helpdesk|027","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2151}
+{"id":"DE|helpdesk|030","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2319}
+{"id":"DE|hr|001","pick":"none","confidence":0.9,"names":["Personio"],"tokens":2067}
+{"id":"DE|hr|004","pick":"none","confidence":0.86,"names":["Personio"],"tokens":2092}
+{"id":"DE|hr|002","pick":"none","confidence":0.92,"names":["Personio"],"tokens":2560}
+{"id":"DE|hr|005","pick":"none","confidence":0.82,"names":["Personio"],"tokens":2258}
+{"id":"DE|hr|007","pick":"none","confidence":0.84,"names":["Personio"],"tokens":2422}
+{"id":"DE|hr|010","pick":"none","confidence":0.82,"names":["Personio"],"tokens":1691}
+{"id":"DE|hr|011","pick":"none","confidence":0.88,"names":["Personio"],"tokens":1742}
+{"id":"DE|hr|012","pick":"none","confidence":0.78,"names":["Personio"],"tokens":2068}
+{"id":"DE|hr|013","pick":"none","confidence":0.76,"names":["Personio"],"tokens":2176}
+{"id":"DE|hr|014","pick":"none","confidence":0.8,"names":["Personio"],"tokens":2164}
+{"id":"DE|hr|015","pick":"none","confidence":0.8,"names":["Personio"],"tokens":2060}
+{"id":"DE|hr|016","pick":"none","confidence":0.72,"names":["Personio"],"tokens":1207}
+{"id":"DE|hr|018","pick":"none","confidence":0.68,"names":["Personio"],"tokens":2133}
+{"id":"DE|hr|020","pick":"none","confidence":0.84,"names":["Personio"],"tokens":2247}
+{"id":"DE|hr|019","pick":"none","confidence":0.82,"names":["Personio"],"tokens":2117}
+{"id":"DE|hr|022","pick":"none","confidence":0.82,"names":["Personio"],"tokens":2134}
+{"id":"DE|hr|023","pick":"none","confidence":0.82,"names":["Personio"],"tokens":2042}
+{"id":"DE|hr|027","pick":"none","confidence":0.64,"names":["Personio"],"tokens":1888}
+{"id":"DE|hr|029","pick":"none","confidence":0.8,"names":["Personio"],"tokens":2173}
+{"id":"DE|passwords|001","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass"],"tokens":2184}
+{"id":"DE|passwords|002","pick":"1Password","confidence":0.99,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":2159}
+{"id":"DE|passwords|003","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass"],"tokens":1895}
+{"id":"DE|passwords|004","pick":"Bitwarden","confidence":1,"names":["1Password","Bitwarden","Proton Pass"],"tokens":1751}
+{"id":"DE|passwords|007","pick":"1Password","confidence":0.64,"names":["1Password","Bitwarden","Proton Pass"],"tokens":1905}
+{"id":"DE|passwords|008","pick":"1Password","confidence":0.91,"names":["1Password","Bitwarden","Proton Pass"],"tokens":2018}
+{"id":"DE|passwords|009","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass"],"tokens":1903}
+{"id":"DE|passwords|011","pick":"1Password","confidence":0.99,"names":["1Password","Bitwarden","Proton Pass"],"tokens":2026}
+{"id":"DE|passwords|012","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":2060}
+{"id":"DE|passwords|013","pick":"1Password","confidence":0.99,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":2054}
+{"id":"DE|passwords|010","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass"],"tokens":1637}
+{"id":"DE|passwords|014","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass"],"tokens":2085}
+{"id":"DE|passwords|015","pick":"Bitwarden","confidence":0.73,"names":["1Password","Bitwarden","Proton Pass"],"tokens":1703}
+{"id":"DE|passwords|016","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass"],"tokens":1925}
+{"id":"DE|passwords|018","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass"],"tokens":1911}
+{"id":"DE|passwords|017","pick":"Bitwarden","confidence":0.99,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":2302}
+{"id":"DE|passwords|019","pick":"Bitwarden","confidence":0.95,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":2538}
+{"id":"DE|passwords|020","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass"],"tokens":1923}
+{"id":"DE|passwords|021","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":2053}
+{"id":"DE|passwords|023","pick":"Bitwarden","confidence":0.96,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":2127}
+{"id":"DE|passwords|022","pick":"Bitwarden","confidence":0.79,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1617}
+{"id":"DE|passwords|024","pick":"1Password","confidence":0.85,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":2082}
+{"id":"DE|passwords|025","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass"],"tokens":2050}
+{"id":"DE|passwords|028","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1997}
+{"id":"DE|passwords|026","pick":"1Password","confidence":0.97,"names":["1Password","Bitwarden","Proton Pass"],"tokens":2000}
+{"id":"DE|passwords|029","pick":"Bitwarden","confidence":0.43,"names":["1Password","Bitwarden","Proton Pass"],"tokens":2046}
+{"id":"DE|passwords|030","pick":"Bitwarden","confidence":0.99,"names":["1Password","Bitwarden","Proton Pass"],"tokens":1878}
+{"id":"DE|payments|001","pick":"Mollie","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Mollie"],"tokens":1901}
+{"id":"DE|payments|002","pick":"none","confidence":0.39,"names":["Stripe","Shopify Payments","PayPal","Mollie"],"tokens":1303}
+{"id":"DE|payments|004","pick":"Mollie","confidence":1,"names":["Stripe","PayPal","Mollie"],"tokens":1128}
+{"id":"DE|payments|005","pick":"Mollie","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Mollie"],"tokens":2010}
+{"id":"DE|payments|006","pick":"none","confidence":0.59,"names":["Stripe","Shopify Payments","PayPal","Mollie"],"tokens":1186}
+{"id":"DE|payments|007","pick":"Mollie","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Mollie"],"tokens":1766}
+{"id":"DE|payments|008","pick":"Mollie","confidence":1,"names":["Stripe","PayPal","Mollie"],"tokens":1825}
+{"id":"DE|payments|009","pick":"Mollie","confidence":1,"names":["Stripe","PayPal","Mollie"],"tokens":1715}
+{"id":"DE|payments|010","pick":"Mollie","confidence":0.99,"names":["Stripe","Shopify Payments","PayPal","Mollie"],"tokens":2229}
+{"id":"DE|payments|011","pick":"Mollie","confidence":0.98,"names":["Stripe","Shopify Payments","PayPal","Mollie"],"tokens":1986}
+{"id":"DE|payments|012","pick":"Mollie","confidence":0.87,"names":["Stripe","Shopify Payments","PayPal","Mollie"],"tokens":1245}
+{"id":"DE|payments|013","pick":"Mollie","confidence":0.99,"names":["Stripe","Shopify Payments","PayPal","Mollie"],"tokens":1215}
+{"id":"DE|payments|014","pick":"Stripe","confidence":0.49,"names":["Stripe","Shopify Payments","PayPal","Mollie"],"tokens":2210}
+{"id":"DE|payments|019","pick":"Mollie","confidence":0.8,"names":["Stripe","PayPal","Mollie"],"tokens":1699}
+{"id":"DE|payments|015","pick":"Mollie","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Mollie"],"tokens":1189}
+{"id":"DE|payments|020","pick":"Mollie","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Mollie"],"tokens":1982}
+{"id":"DE|payments|021","pick":"Mollie","confidence":1,"names":["Stripe","PayPal","Mollie"],"tokens":1586}
+{"id":"DE|payments|023","pick":"Mollie","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Mollie"],"tokens":1194}
+{"id":"DE|payments|022","pick":"Mollie","confidence":0.99,"names":["Stripe","Shopify Payments","PayPal","Mollie"],"tokens":1178}
+{"id":"DE|payments|024","pick":"Mollie","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Mollie"],"tokens":1645}
+{"id":"DE|payments|025","pick":"Mollie","confidence":0.99,"names":["Stripe","Shopify Payments","PayPal","Mollie"],"tokens":2169}
+{"id":"DE|payments|030","pick":"none","confidence":0.35,"names":["Stripe","Shopify Payments","PayPal","Mollie"],"tokens":1289}
+{"id":"DE|payments|026","pick":"Mollie","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Mollie"],"tokens":2455}
+{"id":"DE|payroll|001","pick":"none","confidence":0.82,"names":["Sage Payroll"],"tokens":953}
+{"id":"DE|payroll|002","pick":"Sage Payroll","confidence":1,"names":["Sage Payroll"],"tokens":1551}
+{"id":"DE|payroll|003","pick":"Sage Payroll","confidence":0.96,"names":["Sage Payroll"],"tokens":1882}
+{"id":"DE|payroll|004","pick":"Sage Payroll","confidence":0.94,"names":["Sage Payroll"],"tokens":2135}
+{"id":"DE|payroll|007","pick":"none","confidence":0.8,"names":["Sage Payroll"],"tokens":1655}
+{"id":"DE|payroll|008","pick":"none","confidence":0.76,"names":["Sage Payroll"],"tokens":2059}
+{"id":"DE|payroll|009","pick":"Sage Payroll","confidence":0.96,"names":["Sage Payroll"],"tokens":1597}
+{"id":"DE|payroll|010","pick":"none","confidence":0.78,"names":["Sage Payroll"],"tokens":1562}
+{"id":"DE|payroll|012","pick":"Sage Payroll","confidence":0.84,"names":["Sage Payroll"],"tokens":1907}
+{"id":"DE|payroll|013","pick":"Sage Payroll","confidence":0.96,"names":["Sage Payroll"],"tokens":2234}
+{"id":"DE|payroll|016","pick":"Sage Payroll","confidence":1,"names":["Sage Payroll"],"tokens":1245}
+{"id":"DE|payroll|015","pick":"Sage Payroll","confidence":0.96,"names":["Sage Payroll"],"tokens":1728}
+{"id":"DE|payroll|018","pick":"Sage Payroll","confidence":0.94,"names":["Sage Payroll"],"tokens":2502}
+{"id":"DE|payroll|021","pick":"Sage Payroll","confidence":0.84,"names":["Sage Payroll"],"tokens":1859}
+{"id":"DE|payroll|022","pick":"none","confidence":0.22,"names":["Sage Payroll"],"tokens":2185}
+{"id":"DE|payroll|023","pick":"Sage Payroll","confidence":0.92,"names":["Sage Payroll"],"tokens":2042}
+{"id":"DE|payroll|024","pick":"Sage Payroll","confidence":0.3,"names":["Sage Payroll"],"tokens":1798}
+{"id":"DE|payroll|025","pick":"none","confidence":0.34,"names":["Sage Payroll"],"tokens":1070}
+{"id":"DE|payroll|026","pick":"Sage Payroll","confidence":0.98,"names":["Sage Payroll"],"tokens":1068}
+{"id":"DE|payroll|028","pick":"Sage Payroll","confidence":0.9,"names":["Sage Payroll"],"tokens":2447}
+{"id":"DE|payroll|030","pick":"Sage Payroll","confidence":0.96,"names":["Sage Payroll"],"tokens":2484}
+{"id":"DE|pm|001","pick":"ClickUp","confidence":0.31,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2187}
+{"id":"DE|pm|002","pick":"none","confidence":0.68,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2075}
+{"id":"DE|pm|003","pick":"Linear","confidence":0.26,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2453}
+{"id":"DE|pm|005","pick":"Linear","confidence":0.88,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2467}
+{"id":"DE|pm|004","pick":"ClickUp","confidence":0.62,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2133}
+{"id":"DE|pm|006","pick":"none","confidence":0.26,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2193}
+{"id":"DE|pm|007","pick":"none","confidence":0.51,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2190}
+{"id":"DE|pm|008","pick":"ClickUp","confidence":0.81,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2265}
+{"id":"DE|pm|009","pick":"Linear","confidence":0.46,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2116}
+{"id":"DE|pm|010","pick":"ClickUp","confidence":0.92,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2040}
+{"id":"DE|pm|015","pick":"Linear","confidence":0.99,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2370}
+{"id":"DE|pm|012","pick":"ClickUp","confidence":0.95,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2391}
+{"id":"DE|pm|016","pick":"none","confidence":0.42,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2342}
+{"id":"DE|pm|017","pick":"none","confidence":0.47,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2190}
+{"id":"DE|pm|020","pick":"none","confidence":0.49,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2106}
+{"id":"DE|pm|021","pick":"Linear","confidence":0.81,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2135}
+{"id":"DE|pm|018","pick":"Linear","confidence":0.99,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2199}
+{"id":"DE|pm|022","pick":"ClickUp","confidence":0.45,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2185}
+{"id":"DE|pm|019","pick":"Linear","confidence":0.99,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":3037}
+{"id":"DE|pm|023","pick":"none","confidence":0.54,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2246}
+{"id":"DE|pm|025","pick":"ClickUp","confidence":0.94,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":1743}
+{"id":"DE|pm|028","pick":"ClickUp","confidence":0.8,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2307}
+{"id":"DE|pm|027","pick":"Linear","confidence":0.86,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2146}
+{"id":"DE|pm|030","pick":"none","confidence":0.51,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2434}
+{"id":"US|accounting|025","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2171}
+{"id":"US|accounting|005","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2159}
+{"id":"US|accounting|024","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2418}
+{"id":"US|accounting|011","pick":"QuickBooks","confidence":0.99,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2187}
+{"id":"US|accounting|009","pick":"QuickBooks","confidence":0.99,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2186}
+{"id":"US|accounting|028","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2052}
+{"id":"US|accounting|030","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2201}
+{"id":"US|accounting|029","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2877}
+{"id":"US|crm|006","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2161}
+{"id":"US|crm|010","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2149}
+{"id":"US|crm|012","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2136}
+{"id":"US|crm|016","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2151}
+{"id":"US|crm|020","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2154}
+{"id":"US|crm|018","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2177}
+{"id":"US|crm|029","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2122}
+{"id":"US|email|005","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2092}
+{"id":"US|email|016","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2110}
+{"id":"US|email|008","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2193}
+{"id":"US|email|006","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2149}
+{"id":"US|email|020","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2099}
+{"id":"US|email|025","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","Klaviyo","Mailchimp","Constant Contact"],"tokens":2062}
+{"id":"US|email|027","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2109}
+{"id":"US|email|028","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Mailchimp","Constant Contact"],"tokens":2266}
+{"id":"US|esign|006","pick":"Dropbox Sign","confidence":0.99,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2205}
+{"id":"US|email|030","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2186}
+{"id":"US|esign|007","pick":"Dropbox Sign","confidence":0.93,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":1738}
+{"id":"US|esign|009","pick":"Dropbox Sign","confidence":0.98,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2626}
+{"id":"US|esign|024","pick":"Dropbox Sign","confidence":0.94,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2202}
+{"id":"US|esign|020","pick":"Dropbox Sign","confidence":1,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2038}
+{"id":"US|esign|027","pick":"Dropbox Sign","confidence":1,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2285}
+{"id":"US|esign|030","pick":"Dropbox Sign","confidence":0.68,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2189}
+{"id":"US|helpdesk|005","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2596}
+{"id":"US|helpdesk|007","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2445}
+{"id":"US|helpdesk|006","pick":"Freshdesk","confidence":0.82,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2756}
+{"id":"US|helpdesk|001","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2136}
+{"id":"US|helpdesk|012","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2789}
+{"id":"US|helpdesk|020","pick":"Freshdesk","confidence":0.46,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2439}
+{"id":"US|helpdesk|013","pick":"Freshdesk","confidence":0.61,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2197}
+{"id":"US|helpdesk|022","pick":"Freshdesk","confidence":0.94,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2280}
+{"id":"US|helpdesk|019","pick":"Help Scout","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2271}
+{"id":"US|helpdesk|026","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2633}
+{"id":"US|helpdesk|027","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2386}
+{"id":"US|helpdesk|029","pick":"Freshdesk","confidence":0.99,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2202}
+{"id":"US|helpdesk|030","pick":"Freshdesk","confidence":0.96,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2246}
+{"id":"US|helpdesk|028","pick":"Freshdesk","confidence":0.95,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2637}
+{"id":"US|hr|005","pick":"Gusto","confidence":1,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2285}
+{"id":"US|hr|011","pick":"Gusto","confidence":0.96,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2201}
+{"id":"US|hr|012","pick":"Gusto","confidence":1,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2202}
+{"id":"US|hr|022","pick":"Gusto","confidence":0.99,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2168}
+{"id":"US|hr|024","pick":"Gusto","confidence":0.84,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2270}
+{"id":"US|hr|027","pick":"Gusto","confidence":1,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2375}
+{"id":"US|hr|029","pick":"Gusto","confidence":0.98,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2456}
+{"id":"US|passwords|004","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1429}
+{"id":"US|hr|030","pick":"Gusto","confidence":1,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2226}
+{"id":"US|passwords|007","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1835}
+{"id":"US|passwords|009","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1562}
+{"id":"US|passwords|013","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1918}
+{"id":"US|passwords|017","pick":"1Password","confidence":0.94,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1942}
+{"id":"US|passwords|018","pick":"1Password","confidence":0.9,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1972}
+{"id":"US|passwords|026","pick":"Bitwarden","confidence":1,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1895}
+{"id":"US|passwords|028","pick":"1Password","confidence":0.94,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1951}
+{"id":"US|passwords|030","pick":"Bitwarden","confidence":1,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1826}
+{"id":"US|passwords|029","pick":"Bitwarden","confidence":0.97,"names":["1Password","Bitwarden","Keeper"],"tokens":1666}
+{"id":"US|payments|003","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2026}
+{"id":"US|payments|005","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2131}
+{"id":"US|payments|011","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2111}
+{"id":"US|payments|014","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2186}
+{"id":"US|payments|017","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2115}
+{"id":"US|payments|021","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2158}
+{"id":"US|payments|026","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2095}
+{"id":"US|payments|027","pick":"Stripe","confidence":0.96,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2125}
+{"id":"US|payments|029","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2102}
+{"id":"US|payments|030","pick":"Stripe","confidence":0.99,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2079}
+{"id":"US|payroll|006","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2410}
+{"id":"US|payroll|012","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2283}
+{"id":"US|payroll|013","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","Xero Payroll","ADP"],"tokens":2391}
+{"id":"US|payroll|014","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2197}
+{"id":"US|payroll|015","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2056}
+{"id":"US|payroll|021","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","Xero Payroll","ADP"],"tokens":2239}
+{"id":"US|payroll|024","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2257}
+{"id":"US|payroll|027","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2406}
+{"id":"US|payroll|028","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","Xero Payroll","ADP"],"tokens":2267}
+{"id":"US|pm|005","pick":"ClickUp","confidence":0.93,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2221}
+{"id":"US|payroll|029","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","Xero Payroll","ADP"],"tokens":2396}
+{"id":"US|pm|013","pick":"none","confidence":0.6,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2373}
+{"id":"US|pm|016","pick":"Linear","confidence":0.99,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2124}
+{"id":"US|pm|018","pick":"ClickUp","confidence":0.95,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2163}
+{"id":"US|pm|020","pick":"Linear","confidence":0.96,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2018}
+{"id":"US|pm|022","pick":"ClickUp","confidence":1,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2177}
+{"id":"US|pm|023","pick":"Linear","confidence":0.91,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2172}
+{"id":"US|pm|025","pick":"Linear","confidence":0.99,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2034}
+{"id":"US|pm|029","pick":"Linear","confidence":0.41,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2059}
+{"id":"US|pm|027","pick":"Linear","confidence":0.86,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2101}
+{"id":"US|pm|030","pick":"ClickUp","confidence":1,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2118}
+{"id":"GB|accounting|002","pick":"Xero","confidence":0.91,"names":["Xero","QuickBooks","Zoho Books","FreeAgent"],"tokens":2193}
+{"id":"GB|accounting|005","pick":"Xero","confidence":0.98,"names":["Xero","QuickBooks","Zoho Books","FreeAgent"],"tokens":2485}
+{"id":"GB|accounting|007","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","FreeAgent"],"tokens":2263}
+{"id":"GB|accounting|013","pick":"Xero","confidence":0.99,"names":["Xero","QuickBooks","Zoho Books","FreeAgent"],"tokens":2246}
+{"id":"GB|accounting|018","pick":"Xero","confidence":0.76,"names":["Xero","QuickBooks","Zoho Books","FreeAgent"],"tokens":2240}
+{"id":"GB|accounting|021","pick":"Xero","confidence":0.98,"names":["Xero","QuickBooks","Zoho Books","FreeAgent"],"tokens":2165}
+{"id":"GB|accounting|030","pick":"Xero","confidence":0.95,"names":["Xero","QuickBooks","Zoho Books","FreeAgent"],"tokens":2083}
+{"id":"GB|accounting|029","pick":"Xero","confidence":0.93,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","FreeAgent"],"tokens":2475}
+{"id":"GB|crm|004","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2115}
+{"id":"GB|crm|009","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":2140}
+{"id":"GB|crm|010","pick":"HubSpot","confidence":1,"names":["Pipedrive","Zoho CRM","HubSpot","monday CRM"],"tokens":1853}
+{"id":"GB|crm|016","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":2168}
+{"id":"GB|crm|014","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":2185}
+{"id":"GB|crm|018","pick":"HubSpot","confidence":0.98,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":2298}
+{"id":"GB|crm|019","pick":"HubSpot","confidence":0.98,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":2256}
+{"id":"GB|crm|021","pick":"HubSpot","confidence":0.94,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":2113}
+{"id":"GB|crm|026","pick":"HubSpot","confidence":1,"names":["Pipedrive","Zoho CRM","HubSpot"],"tokens":1801}
+{"id":"GB|email|008","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2164}
+{"id":"GB|crm|027","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot"],"tokens":2142}
+{"id":"GB|email|004","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2227}
+{"id":"GB|email|010","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2248}
+{"id":"GB|email|012","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2206}
+{"id":"GB|email|020","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2127}
+{"id":"GB|email|015","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2300}
+{"id":"GB|email|019","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2121}
+{"id":"GB|email|023","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2097}
+{"id":"GB|email|025","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2107}
+{"id":"GB|email|026","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2005}
+{"id":"GB|email|028","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2124}
+{"id":"GB|email|029","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2191}
+{"id":"GB|email|030","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2106}
+{"id":"GB|esign|012","pick":"Dropbox Sign","confidence":0.98,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":1872}
+{"id":"GB|esign|006","pick":"Dropbox Sign","confidence":0.99,"names":["DocuSign","Dropbox Sign","PandaDoc"],"tokens":2183}
+{"id":"GB|esign|021","pick":"Dropbox Sign","confidence":0.25,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2256}
+{"id":"GB|esign|016","pick":"Dropbox Sign","confidence":0.64,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2534}
+{"id":"GB|esign|022","pick":"SignWell","confidence":0.86,"names":["DocuSign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2152}
+{"id":"GB|esign|024","pick":"none","confidence":0.92,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2284}
+{"id":"GB|esign|026","pick":"none","confidence":0.37,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2410}
+{"id":"GB|esign|027","pick":"Dropbox Sign","confidence":0.95,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2516}
+{"id":"GB|esign|028","pick":"SignWell","confidence":1,"names":["DocuSign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2173}
+{"id":"GB|esign|029","pick":"SignWell","confidence":0.6,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2295}
+{"id":"GB|helpdesk|003","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2299}
+{"id":"GB|helpdesk|007","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2378}
+{"id":"GB|helpdesk|008","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":1827}
+{"id":"GB|helpdesk|011","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2435}
+{"id":"GB|helpdesk|021","pick":"Freshdesk","confidence":0.99,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2304}
+{"id":"GB|helpdesk|027","pick":"Freshdesk","confidence":0.94,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2749}
+{"id":"GB|helpdesk|023","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2347}
+{"id":"GB|helpdesk|026","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2390}
+{"id":"GB|helpdesk|025","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2254}
+{"id":"GB|helpdesk|029","pick":"Freshdesk","confidence":0.99,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2402}
+{"id":"GB|helpdesk|030","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2299}
+{"id":"GB|hr|010","pick":"none","confidence":0.79,"names":["BambooHR","Employment Hero","Gusto"],"tokens":2100}
+{"id":"GB|hr|012","pick":"none","confidence":0.79,"names":["BambooHR","Employment Hero","Gusto"],"tokens":2024}
+{"id":"GB|hr|014","pick":"none","confidence":0.98,"names":["Employment Hero"],"tokens":2027}
+{"id":"GB|hr|017","pick":"none","confidence":0.82,"names":["BambooHR","Employment Hero"],"tokens":1820}
+{"id":"GB|hr|025","pick":"none","confidence":0.9,"names":["BambooHR","Zoho People","Employment Hero","Gusto"],"tokens":2095}
+{"id":"GB|hr|027","pick":"none","confidence":0.69,"names":["BambooHR","Employment Hero","Personio"],"tokens":2040}
+{"id":"GB|hr|028","pick":"none","confidence":0.98,"names":["BambooHR","Employment Hero"],"tokens":1978}
+{"id":"GB|hr|029","pick":"BambooHR","confidence":1,"names":["BambooHR","Rippling","Employment Hero"],"tokens":2058}
+{"id":"GB|passwords|011","pick":"1Password","confidence":0.98,"names":["1Password","Bitwarden","Proton Pass","Keeper","Dashlane"],"tokens":2288}
+{"id":"GB|passwords|013","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper","Dashlane"],"tokens":2151}
+{"id":"GB|passwords|016","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":2047}
+{"id":"GB|passwords|018","pick":"1Password","confidence":0.96,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1966}
+{"id":"GB|passwords|026","pick":"1Password","confidence":0.76,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1985}
+{"id":"GB|passwords|027","pick":"1Password","confidence":0.96,"names":["1Password","Bitwarden","Proton Pass","Keeper","Dashlane"],"tokens":2316}
+{"id":"GB|passwords|029","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1647}
+{"id":"GB|payments|004","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Mollie"],"tokens":2070}
+{"id":"GB|passwords|030","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper","Dashlane"],"tokens":2227}
+{"id":"GB|payments|014","pick":"Stripe","confidence":0.96,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1846}
+{"id":"GB|payments|009","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Mollie"],"tokens":2033}
+{"id":"GB|payments|026","pick":"Stripe","confidence":0.95,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1442}
+{"id":"GB|payments|028","pick":"Stripe","confidence":0.99,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1896}
+{"id":"GB|payments|029","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Mollie"],"tokens":2120}
+{"id":"GB|payroll|008","pick":"Sage Payroll","confidence":0.98,"names":["QuickBooks Payroll","Gusto","OnPay","Sage Payroll","Xero Payroll"],"tokens":2566}
+{"id":"GB|payroll|010","pick":"Sage Payroll","confidence":0.91,"names":["QuickBooks Payroll","Sage Payroll","Xero Payroll"],"tokens":2172}
+{"id":"GB|payroll|012","pick":"Sage Payroll","confidence":0.92,"names":["QuickBooks Payroll","Sage Payroll","Xero Payroll"],"tokens":2170}
+{"id":"GB|payroll|019","pick":"Sage Payroll","confidence":1,"names":["QuickBooks Payroll","Gusto","Sage Payroll","Xero Payroll"],"tokens":2246}
+{"id":"GB|payroll|020","pick":"Sage Payroll","confidence":0.22,"names":["QuickBooks Payroll","Gusto","Sage Payroll","Xero Payroll"],"tokens":2206}
+{"id":"GB|payroll|027","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2153}
+{"id":"GB|payroll|030","pick":"Sage Payroll","confidence":0.96,"names":["QuickBooks Payroll","Sage Payroll","Xero Payroll"],"tokens":2188}
+{"id":"GB|pm|009","pick":"Linear","confidence":0.99,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2160}
+{"id":"GB|payroll|023","pick":"Gusto","confidence":0.99,"names":["QuickBooks Payroll","Gusto","Sage Payroll","Xero Payroll"],"tokens":2050}
+{"id":"GB|pm|014","pick":"ClickUp","confidence":0.54,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2265}
+{"id":"GB|pm|016","pick":"Linear","confidence":0.42,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2233}
+{"id":"GB|pm|022","pick":"Linear","confidence":0.81,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2195}
+{"id":"GB|pm|025","pick":"Linear","confidence":1,"names":["ClickUp","Linear","Notion","Asana"],"tokens":1978}
+{"id":"GB|pm|023","pick":"Linear","confidence":0.69,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":1824}
+{"id":"GB|pm|026","pick":"Linear","confidence":1,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2213}
+{"id":"GB|pm|027","pick":"Linear","confidence":0.89,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2080}
+{"id":"GB|pm|028","pick":"Linear","confidence":1,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2116}
+{"id":"AU|accounting|003","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","Wave","MYOB"],"tokens":2136}
+{"id":"GB|pm|029","pick":"Linear","confidence":1,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2013}
+{"id":"AU|accounting|009","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","MYOB"],"tokens":2182}
+{"id":"AU|accounting|015","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","MYOB"],"tokens":1849}
+{"id":"AU|accounting|017","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Wave","MYOB"],"tokens":2538}
+{"id":"AU|accounting|028","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","MYOB"],"tokens":2076}
+{"id":"AU|accounting|026","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","MYOB"],"tokens":2356}
+{"id":"AU|accounting|025","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","MYOB"],"tokens":2152}
+{"id":"AU|accounting|029","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","MYOB"],"tokens":2116}
+{"id":"AU|accounting|030","pick":"Xero","confidence":1,"names":["Xero","QuickBooks","Zoho Books","MYOB"],"tokens":2126}
+{"id":"AU|crm|001","pick":"HubSpot","confidence":0.99,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2221}
+{"id":"AU|crm|027","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2338}
+{"id":"AU|crm|020","pick":"HubSpot","confidence":0.94,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2277}
+{"id":"AU|crm|028","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2194}
+{"id":"AU|crm|029","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":1857}
+{"id":"AU|crm|030","pick":"HubSpot","confidence":0.96,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2332}
+{"id":"AU|email|005","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2111}
+{"id":"AU|email|012","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2128}
+{"id":"AU|email|016","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2137}
+{"id":"AU|email|026","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2090}
+{"id":"AU|email|029","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2193}
+{"id":"AU|email|023","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2216}
+{"id":"AU|email|028","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2066}
+{"id":"AU|email|027","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2123}
+{"id":"AU|email|030","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2092}
+{"id":"AU|esign|010","pick":"Dropbox Sign","confidence":0.96,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2027}
+{"id":"AU|esign|012","pick":"Dropbox Sign","confidence":0.95,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2339}
+{"id":"AU|esign|016","pick":"Dropbox Sign","confidence":1,"names":["DocuSign","Dropbox Sign","PandaDoc"],"tokens":1728}
+{"id":"AU|esign|015","pick":"Dropbox Sign","confidence":0.93,"names":["DocuSign","Dropbox Sign","PandaDoc"],"tokens":2373}
+{"id":"AU|esign|017","pick":"Dropbox Sign","confidence":0.95,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2308}
+{"id":"AU|esign|029","pick":"Dropbox Sign","confidence":0.99,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2219}
+{"id":"AU|esign|026","pick":"Dropbox Sign","confidence":0.96,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2698}
+{"id":"AU|esign|023","pick":"Dropbox Sign","confidence":0.96,"names":["DocuSign","Dropbox Sign","PandaDoc"],"tokens":2090}
+{"id":"AU|esign|030","pick":"Dropbox Sign","confidence":0.39,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2117}
+{"id":"AU|helpdesk|009","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2585}
+{"id":"AU|helpdesk|008","pick":"Freshdesk","confidence":0.69,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2598}
+{"id":"AU|helpdesk|021","pick":"Freshdesk","confidence":0.77,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2246}
+{"id":"AU|helpdesk|023","pick":"Freshdesk","confidence":0.99,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2833}
+{"id":"AU|helpdesk|014","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2129}
+{"id":"AU|helpdesk|024","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2200}
+{"id":"AU|helpdesk|025","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2384}
+{"id":"AU|helpdesk|026","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2404}
+{"id":"AU|helpdesk|027","pick":"Freshdesk","confidence":0.99,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2359}
+{"id":"AU|helpdesk|028","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2429}
+{"id":"AU|helpdesk|029","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2257}
+{"id":"AU|helpdesk|030","pick":"Freshdesk","confidence":0.83,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2379}
+{"id":"AU|hr|003","pick":"Employment Hero","confidence":1,"names":["BambooHR","Rippling","Zoho People","Employment Hero","Gusto"],"tokens":2286}
+{"id":"AU|hr|011","pick":"Employment Hero","confidence":0.96,"names":["BambooHR","Zoho People","Employment Hero"],"tokens":2222}
+{"id":"AU|hr|015","pick":"Employment Hero","confidence":0.61,"names":["BambooHR","Rippling","Zoho People","Employment Hero"],"tokens":1925}
+{"id":"AU|hr|016","pick":"Employment Hero","confidence":1,"names":["BambooHR","Zoho People","Employment Hero"],"tokens":2554}
+{"id":"AU|hr|019","pick":"Employment Hero","confidence":0.96,"names":["BambooHR","Rippling","Zoho People","Employment Hero"],"tokens":2119}
+{"id":"AU|hr|022","pick":"Employment Hero","confidence":1,"names":["BambooHR","Rippling","Zoho People","Employment Hero","Gusto"],"tokens":2255}
+{"id":"AU|hr|025","pick":"Employment Hero","confidence":0.75,"names":["BambooHR","Rippling","Zoho People","Employment Hero"],"tokens":2245}
+{"id":"AU|hr|026","pick":"Employment Hero","confidence":1,"names":["BambooHR","Zoho People","Employment Hero"],"tokens":1677}
+{"id":"AU|hr|027","pick":"Employment Hero","confidence":0.87,"names":["BambooHR","Rippling","Zoho People","Employment Hero"],"tokens":2103}
+{"id":"AU|hr|029","pick":"BambooHR","confidence":0.65,"names":["BambooHR","Rippling","Zoho People","Employment Hero"],"tokens":2073}
+{"id":"AU|hr|028","pick":"Employment Hero","confidence":0.99,"names":["BambooHR","Rippling","Employment Hero"],"tokens":2550}
+{"id":"AU|hr|030","pick":"Employment Hero","confidence":0.98,"names":["BambooHR","Employment Hero"],"tokens":2083}
+{"id":"AU|passwords|008","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper"],"tokens":1625}
+{"id":"AU|passwords|012","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1854}
+{"id":"AU|passwords|023","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1864}
+{"id":"AU|passwords|016","pick":"1Password","confidence":0.86,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1990}
+{"id":"AU|passwords|024","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1895}
+{"id":"AU|passwords|025","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":2015}
+{"id":"AU|passwords|028","pick":"1Password","confidence":0.94,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1999}
+{"id":"AU|passwords|030","pick":"1Password","confidence":0.98,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":2016}
+{"id":"AU|payments|003","pick":"Stripe","confidence":0.92,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":2250}
+{"id":"AU|payments|014","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal"],"tokens":2179}
+{"id":"AU|payments|021","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":2172}
+{"id":"AU|payments|026","pick":"Stripe","confidence":0.98,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":2235}
+{"id":"AU|payments|028","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1830}
+{"id":"AU|payments|025","pick":"Stripe","confidence":0.96,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":1854}
+{"id":"AU|payments|029","pick":"Stripe","confidence":0.99,"names":["Stripe","Shopify Payments","PayPal"],"tokens":1920}
+{"id":"AU|payments|030","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square"],"tokens":2021}
+{"id":"AU|payroll|004","pick":"Gusto","confidence":0.95,"names":["QuickBooks Payroll","Gusto","OnPay","Xero Payroll","ADP"],"tokens":2193}
+{"id":"AU|payroll|008","pick":"Xero Payroll","confidence":0.91,"names":["Gusto","OnPay","Xero Payroll"],"tokens":2615}
+{"id":"AU|payroll|017","pick":"Xero Payroll","confidence":0.96,"names":["Xero Payroll"],"tokens":2030}
+{"id":"AU|payroll|013","pick":"Xero Payroll","confidence":0.97,"names":["QuickBooks Payroll","Xero Payroll"],"tokens":2213}
+{"id":"AU|payroll|018","pick":"Xero Payroll","confidence":0.44,"names":["QuickBooks Payroll","Gusto","Xero Payroll"],"tokens":2184}
+{"id":"AU|payroll|024","pick":"Gusto","confidence":0.87,"names":["QuickBooks Payroll","Gusto","Xero Payroll","ADP"],"tokens":1998}
+{"id":"AU|payroll|021","pick":"Xero Payroll","confidence":0.98,"names":["Xero Payroll"],"tokens":2205}
+{"id":"AU|payroll|025","pick":"none","confidence":0.26,"names":["Xero Payroll"],"tokens":1880}
+{"id":"AU|payroll|026","pick":"Xero Payroll","confidence":0.95,"names":["QuickBooks Payroll","Gusto","Xero Payroll"],"tokens":2600}
+{"id":"AU|payroll|029","pick":"Xero Payroll","confidence":0.97,"names":["Gusto","Xero Payroll","ADP"],"tokens":2310}
+{"id":"AU|payroll|028","pick":"Gusto","confidence":0.98,"names":["QuickBooks Payroll","Gusto","OnPay","Xero Payroll"],"tokens":2166}
+{"id":"AU|payroll|030","pick":"Xero Payroll","confidence":0.96,"names":["QuickBooks Payroll","Gusto","Xero Payroll"],"tokens":1913}
+{"id":"AU|pm|010","pick":"Linear","confidence":0.96,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2225}
+{"id":"AU|pm|011","pick":"Linear","confidence":0.98,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2117}
+{"id":"AU|pm|016","pick":"Linear","confidence":0.99,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2068}
+{"id":"AU|pm|025","pick":"Linear","confidence":1,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2291}
+{"id":"AU|pm|027","pick":"Linear","confidence":0.99,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2260}
+{"id":"AU|pm|029","pick":"Linear","confidence":1,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2146}
+{"id":"AU|pm|030","pick":"Linear","confidence":0.98,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2026}
+{"id":"CA|accounting|013","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2582}
+{"id":"CA|accounting|014","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2206}
+{"id":"CA|accounting|015","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2203}
+{"id":"CA|accounting|018","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2152}
+{"id":"CA|accounting|019","pick":"QuickBooks","confidence":0.99,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2266}
+{"id":"CA|accounting|025","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2140}
+{"id":"CA|accounting|029","pick":"QuickBooks","confidence":1,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2127}
+{"id":"CA|accounting|027","pick":"QuickBooks","confidence":0.99,"names":["Xero","QuickBooks","FreshBooks","Zoho Books","Wave"],"tokens":2188}
+{"id":"CA|crm|004","pick":"HubSpot","confidence":1,"names":["Pipedrive","Zoho CRM","HubSpot","monday CRM"],"tokens":1767}
+{"id":"CA|crm|006","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2176}
+{"id":"CA|crm|008","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2197}
+{"id":"CA|crm|011","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2123}
+{"id":"CA|crm|013","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2263}
+{"id":"CA|crm|016","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2246}
+{"id":"CA|crm|025","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","Less Annoying CRM"],"tokens":2045}
+{"id":"CA|crm|030","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2152}
+{"id":"CA|crm|029","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2141}
+{"id":"CA|email|003","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","Klaviyo","Mailchimp","Constant Contact"],"tokens":2094}
+{"id":"CA|email|005","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2201}
+{"id":"CA|email|023","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp","Constant Contact"],"tokens":2130}
+{"id":"CA|esign|005","pick":"Dropbox Sign","confidence":0.93,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2719}
+{"id":"CA|email|026","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2190}
+{"id":"CA|email|028","pick":"MailerLite","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2168}
+{"id":"CA|esign|015","pick":"Dropbox Sign","confidence":0.95,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2548}
+{"id":"CA|esign|022","pick":"Dropbox Sign","confidence":0.98,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2281}
+{"id":"CA|helpdesk|021","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2418}
+{"id":"CA|esign|030","pick":"Dropbox Sign","confidence":0.98,"names":["DocuSign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2353}
+{"id":"CA|esign|029","pick":"Dropbox Sign","confidence":0.85,"names":["DocuSign","Dropbox Sign","PandaDoc","SignWell"],"tokens":2143}
+{"id":"CA|esign|023","pick":"Dropbox Sign","confidence":0.9,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign","PandaDoc"],"tokens":2523}
+{"id":"CA|helpdesk|023","pick":"Help Scout","confidence":0.54,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2187}
+{"id":"CA|helpdesk|027","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2087}
+{"id":"CA|hr|006","pick":"BambooHR","confidence":0.74,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2210}
+{"id":"CA|hr|021","pick":"BambooHR","confidence":0.94,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2555}
+{"id":"CA|hr|027","pick":"Employment Hero","confidence":0.61,"names":["BambooHR","Rippling","Employment Hero"],"tokens":1869}
+{"id":"CA|hr|028","pick":"BambooHR","confidence":0.83,"names":["BambooHR","Rippling","Zoho People","Employment Hero","Gusto"],"tokens":2437}
+{"id":"CA|hr|029","pick":"BambooHR","confidence":0.96,"names":["BambooHR","Rippling","Zoho People","Gusto"],"tokens":2295}
+{"id":"CA|passwords|007","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Keeper","Dashlane"],"tokens":1673}
+{"id":"CA|hr|030","pick":"BambooHR","confidence":0.63,"names":["BambooHR","Rippling","Zoho People","Employment Hero","Gusto"],"tokens":2328}
+{"id":"CA|passwords|020","pick":"1Password","confidence":1,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1804}
+{"id":"CA|passwords|025","pick":"1Password","confidence":0.84,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":2051}
+{"id":"CA|passwords|030","pick":"1Password","confidence":0.99,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1951}
+{"id":"CA|passwords|026","pick":"1Password","confidence":0.98,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":1903}
+{"id":"CA|payments|016","pick":"Stripe","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2069}
+{"id":"CA|payments|018","pick":"Stripe","confidence":0.99,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2196}
+{"id":"CA|payments|026","pick":"Stripe","confidence":0.99,"names":["Stripe","Shopify Payments","PayPal","Square","Helcim"],"tokens":2180}
+{"id":"CA|payroll|006","pick":"Gusto","confidence":0.99,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2243}
+{"id":"CA|payments|030","pick":"Stripe","confidence":0.81,"names":["Stripe","Shopify Payments","PayPal","Helcim"],"tokens":1931}
+{"id":"CA|payroll|010","pick":"none","confidence":0.92,"names":["QuickBooks Payroll","ADP"],"tokens":2324}
+{"id":"CA|payroll|013","pick":"none","confidence":0.65,"names":["QuickBooks Payroll","Gusto","OnPay"],"tokens":1876}
+{"id":"CA|payroll|015","pick":"none","confidence":0.86,"names":["QuickBooks Payroll","ADP"],"tokens":2000}
+{"id":"CA|payroll|020","pick":"none","confidence":0.87,"names":["QuickBooks Payroll","Xero Payroll","ADP"],"tokens":1888}
+{"id":"CA|payroll|024","pick":"none","confidence":0.91,"names":["QuickBooks Payroll","Xero Payroll","ADP"],"tokens":2041}
+{"id":"CA|payroll|025","pick":"Gusto","confidence":0.99,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2593}
+{"id":"CA|payroll|026","pick":"Gusto","confidence":1,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2172}
+{"id":"CA|payroll|027","pick":"none","confidence":0.88,"names":["QuickBooks Payroll","Gusto","ADP"],"tokens":2097}
+{"id":"CA|payroll|029","pick":"none","confidence":0.89,"names":["QuickBooks Payroll","Sage Payroll","Xero Payroll"],"tokens":1917}
+{"id":"CA|payroll|030","pick":"Gusto","confidence":0.98,"names":["QuickBooks Payroll","Gusto","OnPay","ADP"],"tokens":2391}
+{"id":"CA|pm|022","pick":"Linear","confidence":1,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2072}
+{"id":"CA|pm|023","pick":"none","confidence":0.31,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2174}
+{"id":"CA|pm|011","pick":"Linear","confidence":0.99,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2215}
+{"id":"CA|pm|026","pick":"none","confidence":0.45,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2072}
+{"id":"CA|pm|025","pick":"Linear","confidence":0.99,"names":["ClickUp","Linear","Notion","Asana"],"tokens":1927}
+{"id":"CA|pm|027","pick":"Linear","confidence":0.55,"names":["ClickUp","Linear","Notion","Asana"],"tokens":1983}
+{"id":"DE|accounting|007","pick":"none","confidence":0.4,"names":["sevdesk"],"tokens":1426}
+{"id":"CA|pm|028","pick":"Linear","confidence":0.87,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2041}
+{"id":"DE|accounting|009","pick":"none","confidence":0.84,"names":["sevdesk"],"tokens":1979}
+{"id":"DE|accounting|008","pick":"sevdesk","confidence":0.6,"names":["sevdesk"],"tokens":2297}
+{"id":"DE|accounting|011","pick":"sevdesk","confidence":0.5,"names":["sevdesk"],"tokens":2055}
+{"id":"DE|accounting|014","pick":"none","confidence":0.92,"names":["sevdesk"],"tokens":2122}
+{"id":"DE|accounting|013","pick":"none","confidence":0.08,"names":["sevdesk"],"tokens":1938}
+{"id":"DE|accounting|015","pick":"sevdesk","confidence":0.66,"names":["sevdesk"],"tokens":1973}
+{"id":"DE|accounting|022","pick":"sevdesk","confidence":0.98,"names":["sevdesk"],"tokens":1983}
+{"id":"DE|accounting|023","pick":"sevdesk","confidence":0.4,"names":["sevdesk"],"tokens":2097}
+{"id":"DE|accounting|029","pick":"none","confidence":0.88,"names":["sevdesk"],"tokens":2166}
+{"id":"DE|accounting|028","pick":"none","confidence":0.24,"names":["sevdesk"],"tokens":2044}
+{"id":"DE|accounting|030","pick":"sevdesk","confidence":1,"names":["sevdesk"],"tokens":2197}
+{"id":"DE|crm|002","pick":"Pipedrive","confidence":0.39,"names":["Pipedrive","Zoho CRM","HubSpot","monday CRM"],"tokens":2213}
+{"id":"DE|crm|008","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2473}
+{"id":"DE|email|002","pick":"Brevo","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign"],"tokens":1950}
+{"id":"DE|crm|028","pick":"HubSpot","confidence":1,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2282}
+{"id":"DE|crm|030","pick":"HubSpot","confidence":0.87,"names":["Pipedrive","Freshsales","Zoho CRM","HubSpot","monday CRM"],"tokens":2269}
+{"id":"DE|email|012","pick":"Brevo","confidence":0.87,"names":["Brevo","MailerLite","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2384}
+{"id":"DE|email|023","pick":"Brevo","confidence":1,"names":["Brevo","ActiveCampaign","Klaviyo","Mailchimp"],"tokens":2142}
+{"id":"DE|email|029","pick":"Brevo","confidence":1,"names":["Brevo","MailerLite","Mailchimp"],"tokens":2221}
+{"id":"DE|esign|009","pick":"none","confidence":0.88,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign"],"tokens":2166}
+{"id":"DE|email|030","pick":"Brevo","confidence":1,"names":["Brevo","MailerLite","ActiveCampaign","Mailchimp"],"tokens":2369}
+{"id":"DE|esign|012","pick":"none","confidence":0.96,"names":["DocuSign","Adobe Acrobat Sign"],"tokens":2349}
+{"id":"DE|esign|017","pick":"none","confidence":0.88,"names":["DocuSign","Adobe Acrobat Sign"],"tokens":2029}
+{"id":"DE|esign|019","pick":"none","confidence":0.96,"names":["DocuSign","Adobe Acrobat Sign"],"tokens":2205}
+{"id":"DE|esign|020","pick":"none","confidence":0.95,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign"],"tokens":2111}
+{"id":"DE|esign|021","pick":"none","confidence":0.92,"names":["DocuSign","Adobe Acrobat Sign"],"tokens":2044}
+{"id":"DE|esign|025","pick":"none","confidence":0.98,"names":["DocuSign","Adobe Acrobat Sign"],"tokens":2344}
+{"id":"DE|esign|024","pick":"none","confidence":0.96,"names":["DocuSign","Adobe Acrobat Sign"],"tokens":2341}
+{"id":"DE|esign|029","pick":"none","confidence":0.91,"names":["DocuSign","Adobe Acrobat Sign","Dropbox Sign"],"tokens":2375}
+{"id":"DE|esign|030","pick":"none","confidence":0.88,"names":["DocuSign","Adobe Acrobat Sign"],"tokens":1934}
+{"id":"DE|helpdesk|023","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2755}
+{"id":"DE|helpdesk|017","pick":"Freshdesk","confidence":0.53,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2479}
+{"id":"DE|helpdesk|018","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2128}
+{"id":"DE|helpdesk|024","pick":"Freshdesk","confidence":1,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk","Intercom"],"tokens":2761}
+{"id":"DE|helpdesk|026","pick":"Freshdesk","confidence":0.94,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2321}
+{"id":"DE|helpdesk|029","pick":"Freshdesk","confidence":0.89,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2699}
+{"id":"DE|hr|003","pick":"none","confidence":0.94,"names":["Personio"],"tokens":2054}
+{"id":"DE|helpdesk|028","pick":"Freshdesk","confidence":0.9,"names":["Freshdesk","Help Scout","Zoho Desk","Zendesk"],"tokens":2468}
+{"id":"DE|hr|006","pick":"none","confidence":0.64,"names":["Personio"],"tokens":2297}
+{"id":"DE|hr|008","pick":"none","confidence":0.7,"names":["Personio"],"tokens":2194}
+{"id":"DE|hr|009","pick":"none","confidence":0.66,"names":["Personio"],"tokens":2351}
+{"id":"DE|hr|017","pick":"none","confidence":0.84,"names":["Personio"],"tokens":2210}
+{"id":"DE|hr|021","pick":"none","confidence":0.72,"names":["Personio"],"tokens":2226}
+{"id":"DE|hr|024","pick":"none","confidence":0.82,"names":["Personio"],"tokens":2159}
+{"id":"DE|hr|025","pick":"none","confidence":0.92,"names":["Personio"],"tokens":1634}
+{"id":"DE|hr|026","pick":"none","confidence":0.7,"names":["Personio"],"tokens":2474}
+{"id":"DE|hr|028","pick":"none","confidence":0.9,"names":["Personio"],"tokens":991}
+{"id":"DE|passwords|005","pick":"Bitwarden","confidence":0.92,"names":["1Password","Bitwarden","Proton Pass"],"tokens":2046}
+{"id":"DE|hr|030","pick":"none","confidence":0.74,"names":["Personio"],"tokens":2091}
+{"id":"DE|passwords|006","pick":"Bitwarden","confidence":0.85,"names":["1Password","Bitwarden","Proton Pass","Keeper"],"tokens":2370}
+{"id":"DE|payments|016","pick":"Mollie","confidence":0.81,"names":["Stripe","Shopify Payments","PayPal","Mollie"],"tokens":1997}
+{"id":"DE|passwords|027","pick":"Bitwarden","confidence":0.88,"names":["1Password","Bitwarden","Proton Pass"],"tokens":1690}
+{"id":"DE|payments|003","pick":"Mollie","confidence":1,"names":["Stripe","PayPal","Mollie"],"tokens":1608}
+{"id":"DE|payments|017","pick":"Mollie","confidence":1,"names":["Stripe","PayPal","Mollie"],"tokens":1193}
+{"id":"DE|payments|018","pick":"Mollie","confidence":0.95,"names":["Stripe","Shopify Payments","PayPal","Mollie"],"tokens":1220}
+{"id":"DE|payments|027","pick":"Stripe","confidence":0.99,"names":["Stripe","Shopify Payments","PayPal","Mollie"],"tokens":1917}
+{"id":"DE|payments|028","pick":"Mollie","confidence":1,"names":["Stripe","Shopify Payments","PayPal","Mollie"],"tokens":1946}
+{"id":"DE|payroll|005","pick":"Sage Payroll","confidence":0.94,"names":["Sage Payroll"],"tokens":2326}
+{"id":"DE|payments|029","pick":"Mollie","confidence":0.9,"names":["Stripe","Shopify Payments","PayPal","Mollie"],"tokens":1903}
+{"id":"DE|payroll|006","pick":"Sage Payroll","confidence":1,"names":["Sage Payroll"],"tokens":1629}
+{"id":"DE|payroll|014","pick":"none","confidence":0.06,"names":["Sage Payroll"],"tokens":1718}
+{"id":"DE|payroll|019","pick":"Sage Payroll","confidence":1,"names":["Sage Payroll"],"tokens":1552}
+{"id":"DE|payroll|017","pick":"Sage Payroll","confidence":0.94,"names":["Sage Payroll"],"tokens":1898}
+{"id":"DE|payroll|011","pick":"Sage Payroll","confidence":0.78,"names":["Sage Payroll"],"tokens":2170}
+{"id":"DE|payroll|020","pick":"Sage Payroll","confidence":0.96,"names":["Sage Payroll"],"tokens":1025}
+{"id":"DE|payroll|029","pick":"Sage Payroll","confidence":0.74,"names":["Sage Payroll"],"tokens":2542}
+{"id":"DE|payroll|027","pick":"Sage Payroll","confidence":0.04,"names":["Sage Payroll"],"tokens":2374}
+{"id":"DE|pm|011","pick":"ClickUp","confidence":0.88,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":1745}
+{"id":"DE|pm|013","pick":"ClickUp","confidence":0.74,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2112}
+{"id":"DE|pm|014","pick":"ClickUp","confidence":1,"names":["ClickUp","Linear","Notion","Asana"],"tokens":2206}
+{"id":"DE|pm|029","pick":"none","confidence":0.44,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2144}
+{"id":"DE|pm|024","pick":"none","confidence":0.74,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2589}
+{"id":"DE|pm|026","pick":"ClickUp","confidence":0.98,"names":["ClickUp","Linear","Notion","Asana","Trello"],"tokens":2440}

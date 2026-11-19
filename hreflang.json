@@ -1,0 +1,1001 @@
+{
+ "freeagent": {
+  "checked": "https://www.freeagent.com/",
+  "status": 200,
+  "GB": "https://www.freeagent.com/",
+  "alternates": 5
+ },
+ "techradar": {
+  "checked": "https://www.techradar.com/best/best-hr-software",
+  "status": 200,
+  "alternates": 3
+ },
+ "serpastra": {
+  "checked": "https://serpastra.com/blog/best-e-signature-software-for-small-business",
+  "status": 200,
+  "alternates": 0
+ },
+ "freshbooks": {
+  "checked": "https://www.freshbooks.com/",
+  "status": 200,
+  "AU": "https://www.freshbooks.com/en-au/",
+  "CA": "https://www.freshbooks.com/en-ca/",
+  "GB": "https://www.freshbooks.com/en-gb/",
+  "alternates": 24
+ },
+ "itechguides": {
+  "checked": "https://www.itechguides.com/14-best-email-marketing-services-in-2026-compared-by-price-features-and-use-case/",
+  "status": 403,
+  "alternates": 0
+ },
+ "trustedaiagencies": {
+  "checked": "https://trustedaiagencies.com/guides/best-accounting-software-uk/",
+  "status": 200,
+  "alternates": 2
+ },
+ "hubspot": {
+  "checked": "https://www.hubspot.com/products/crm",
+  "status": 200,
+  "DE": "https://www.hubspot.de/products/crm",
+  "alternates": 7
+ },
+ "pipedrive": {
+  "checked": "https://www.pipedrive.com/",
+  "status": 200,
+  "DE": "https://www.pipedrive.com/de",
+  "alternates": 25
+ },
+ "zoho": {
+  "checked": "https://www.zoho.com/desk/",
+  "status": 200,
+  "alternates": 0
+ },
+ "freshworks": {
+  "checked": "https://www.freshworks.com/crm/sales/",
+  "status": 200,
+  "DE": "https://www.freshworks.com/de/crm/sales/",
+  "alternates": 11
+ },
+ "capsulecrm": {
+  "checked": "https://capsulecrm.com/",
+  "status": 200,
+  "alternates": 0
+ },
+ "getcoherence": {
+  "checked": "https://www.getcoherence.io/blog/best-crm-tools-small-teams",
+  "status": 200,
+  "alternates": 0
+ },
+ "monday": {
+  "checked": "https://monday.com/",
+  "status": 200,
+  "DE": "https://monday.com/lang/de",
+  "alternates": 15
+ },
+ "spotsaas": {
+  "checked": "https://www.spotsaas.com/blog/best-crm-software-2026-reviews-pricing-feature-comparison",
+  "status": 200,
+  "alternates": 4
+ },
+ "g2": {
+  "checked": "https://www.g2.com/categories/email-marketing/small-business",
+  "status": 403,
+  "alternates": 0
+ },
+ "businessnewsdaily": {
+  "checked": "https://www.businessnewsdaily.com/7509-best-payroll-services.html",
+  "status": 200,
+  "alternates": 0
+ },
+ "mailerlite": {
+  "checked": "https://www.mailerlite.com/",
+  "status": 200,
+  "alternates": 4
+ },
+ "brevo": {
+  "checked": "https://www.brevo.com/",
+  "status": 200,
+  "DE": "https://www.brevo.com/de/",
+  "alternates": 7
+ },
+ "mailchimp": {
+  "checked": "https://mailchimp.com/",
+  "status": 200,
+  "DE": "https://mailchimp.com/de/",
+  "alternates": 7
+ },
+ "activecampaign": {
+  "checked": "https://www.activecampaign.com/",
+  "status": 200,
+  "DE": "https://www.activecampaign.com/de",
+  "alternates": 7
+ },
+ "klaviyo": {
+  "checked": "https://www.klaviyo.com/",
+  "status": 200,
+  "GB": "https://www.klaviyo.com/uk/",
+  "DE": "https://www.klaviyo.com/de/",
+  "AU": "https://www.klaviyo.com/au/",
+  "alternates": 9
+ },
+ "softwarecompare": {
+  "checked": "https://www.softwarecompare.net/comparison/best-help-desk-software-for-small-business",
+  "status": 200,
+  "alternates": 0
+ },
+ "stacknpilot": {
+  "checked": "https://www.stacknpilot.com/articles/best-email-marketing-software-for-small-businesses-2026-7-tools-compared",
+  "status": 200,
+  "alternates": 0
+ },
+ "dashlink": {
+  "checked": "https://dashlink.media/best-email-marketing-software-for-uk-small-businesses/",
+  "status": 200,
+  "alternates": 4
+ },
+ "fitsmallbusiness": {
+  "checked": "https://fitsmallbusiness.com/best-payroll-software-reviews/",
+  "status": 200,
+  "alternates": 3
+ },
+ "dupple": {
+  "checked": "https://dupple.com/learn/best-e-signature-software",
+  "status": 200,
+  "alternates": 2
+ },
+ "dropbox": {
+  "checked": "https://sign.dropbox.com/",
+  "status": 200,
+  "DE": "https://sign.dropbox.com/de-DE/",
+  "GB": "https://sign.dropbox.com/en-GB/",
+  "alternates": 23
+ },
+ "pandadoc": {
+  "checked": "https://www.pandadoc.com/",
+  "status": 429,
+  "alternates": 0
+ },
+ "helpcompare": {
+  "checked": "https://helpcompare.com/e-signature/",
+  "status": 200,
+  "alternates": 6
+ },
+ "helprange": {
+  "checked": "https://www.helprange.com/e-signature-comparison",
+  "status": 200,
+  "DE": "https://www.helprange.com/de/data-room-nda",
+  "alternates": 32
+ },
+ "99datarooms": {
+  "checked": "https://99datarooms.com/blog/how-much-does-e-signature-software-cost-in-the-uk-2026/",
+  "status": 200,
+  "alternates": 1
+ },
+ "hackceleration": {
+  "checked": "https://hackceleration.com/labs/best/startup-project-management-software",
+  "status": 200,
+  "alternates": 4
+ },
+ "saascheck": {
+  "checked": "https://saascheck.io/reviews/best-esignature-tool-for-small-business",
+  "status": 200,
+  "alternates": 1
+ },
+ "tomsguide": {
+  "checked": "https://www.tomsguide.com/buying-guide/best-e-signature-software",
+  "status": 200,
+  "alternates": 3
+ },
+ "zapier": {
+  "checked": "https://zapier.com/blog/best-hr-software-for-small-businesses/",
+  "status": 200,
+  "alternates": 2
+ },
+ "signable": {
+  "checked": "https://www.signable.com/plans/",
+  "status": 200,
+  "GB": "https://www.signable.com/plans/",
+  "alternates": 5
+ },
+ "gov": {
+  "checked": "https://www.gov.uk/guidance/find-payroll-software-that-is-recognised-by-hmrc",
+  "status": 200,
+  "alternates": 0
+ },
+ "lawsociety": {
+  "checked": "https://www.lawsociety.org.uk/topics/business-management/execution-of-a-document-using-and-electronic-signature",
+  "status": 200,
+  "alternates": 0
+ },
+ "docusign": {
+  "checked": "https://www.docusign.com/",
+  "status": 200,
+  "CA": "https://www.docusign.com/en-ca",
+  "AU": "https://www.docusign.com/en-au",
+  "GB": "https://www.docusign.com/en-gb",
+  "DE": "https://www.docusign.com/de-de",
+  "alternates": 20
+ },
+ "adobe": {
+  "checked": "https://www.adobe.com/acrobat/business/sign.html",
+  "status": 200,
+  "alternates": 0
+ },
+ "vettlo": {
+  "checked": "https://vettlo.com/tools/best-password-managers-for-business/",
+  "status": 200,
+  "alternates": 0
+ },
+ "icaew": {
+  "checked": "https://www.icaew.com/technical/tas-helpsheets/law-and-regulation/using-electronic-signatures",
+  "status": 200,
+  "alternates": 0
+ },
+ "signwell": {
+  "checked": "https://www.signwell.com/",
+  "status": 200,
+  "alternates": 0
+ },
+ "ico": {
+  "checked": "https://ico.org.uk/for-organisations/guide-to-eidas/what-is-the-eidas-regulation/",
+  "status": 403,
+  "alternates": 0
+ },
+ "topelevens": {
+  "checked": "https://topelevens.com/compare/adobe-acrobat-sign-vs-docusign-vs-dropbox-sign",
+  "status": 200,
+  "alternates": 5
+ },
+ "comparethecloud": {
+  "checked": "https://www.comparethecloud.net/articles/docusign-adobe-acrobat-sign-or-dropbox-sign-for-a-uk-accountancy-or-law-firm",
+  "status": 200,
+  "alternates": 1
+ },
+ "saasayer": {
+  "checked": "https://www.saasayer.com/comparisons/best-esignature-software",
+  "status": 200,
+  "alternates": 0
+ },
+ "helpscout": {
+  "checked": "https://www.helpscout.com/",
+  "status": 200,
+  "alternates": 1
+ },
+ "zendesk": {
+  "checked": "https://www.zendesk.com/",
+  "status": 200,
+  "AU": "https://www.zendesk.com/au/",
+  "DE": "https://www.zendesk.de/",
+  "GB": "https://www.zendesk.co.uk/",
+  "alternates": 20
+ },
+ "intercom": {
+  "checked": "https://www.intercom.com/",
+  "status": 200,
+  "DE": "https://www.intercom.com/de-de",
+  "alternates": 6
+ },
+ "atlassian": {
+  "checked": "https://www.atlassian.com/software/jira/service-management",
+  "status": 200,
+  "alternates": 0
+ },
+ "toolradar": {
+  "checked": "https://toolradar.com/guides/best-helpdesk-software",
+  "status": 200,
+  "alternates": 0
+ },
+ "getomnichannel": {
+  "checked": "https://getomnichannel.com/helpdesk-ticketing/best-helpdesk-ticketing-software/",
+  "status": 200,
+  "alternates": 4
+ },
+ "softwareworld": {
+  "checked": "https://www.softwareworld.co/human-resources-software-canada/",
+  "status": 403,
+  "alternates": 0
+ },
+ "freshdesk": {
+  "checked": "https://www.freshdesk.com/",
+  "status": 502,
+  "alternates": 0
+ },
+ "dragapp": {
+  "checked": "https://www.dragapp.com/blog/best-help-desk-software/",
+  "status": 200,
+  "alternates": 0
+ },
+ "guides": {
+  "checked": "https://guides.reviews/customer-experience-support/best-help-desk-ticketing-software-small-business-2026",
+  "status": 200,
+  "alternates": 1
+ },
+ "capterra": {
+  "checked": "https://www.capterra.com/resources/best-help-desk-software-small-business/",
+  "status": 403,
+  "alternates": 0
+ },
+ "commsadvisor": {
+  "checked": "https://commsadvisor.com/best-help-desk-software/",
+  "status": 200,
+  "alternates": 1
+ },
+ "techcognate": {
+  "checked": "https://www.techcognate.com/best-payment-gateways-for-ecommerce/",
+  "status": 200,
+  "alternates": 6
+ },
+ "breathehr": {
+  "checked": "https://www.breathehr.com/",
+  "status": 200,
+  "alternates": 0
+ },
+ "charliehr": {
+  "checked": "https://www.charliehr.com/",
+  "status": 200,
+  "alternates": 0
+ },
+ "brighthr": {
+  "checked": "https://www.brighthr.com/",
+  "status": 200,
+  "GB": "https://www.brighthr.com/",
+  "CA": "https://www.brighthr.com/ca/",
+  "AU": "https://www.brighthr.com/au/",
+  "alternates": 5
+ },
+ "hibob": {
+  "checked": "https://www.hibob.com/",
+  "status": 200,
+  "DE": "https://www.hibob.com/de/",
+  "alternates": 7
+ },
+ "bamboohr": {
+  "checked": "https://www.bamboohr.com/",
+  "status": 200,
+  "alternates": 0
+ },
+ "rippling": {
+  "checked": "https://www.rippling.com/",
+  "status": 200,
+  "DE": "https://www.rippling.com/de-DE",
+  "AU": "https://www.rippling.com/en-AU",
+  "CA": "https://www.rippling.com/en-CA",
+  "GB": "https://www.rippling.com/en-GB",
+  "alternates": 27
+ },
+ "technologyadvice": {
+  "checked": "https://technologyadvice.com/blog/human-resources/best-hr-software-for-small-business/",
+  "status": 403,
+  "alternates": 0
+ },
+ "hrstacksolutions": {
+  "checked": "https://www.hrstacksolutions.com/pillars/hris-systems",
+  "status": 200,
+  "alternates": 0
+ },
+ "personio": {
+  "checked": "https://www.personio.com/",
+  "status": 429,
+  "alternates": 0
+ },
+ "1password": {
+  "checked": "https://1password.com/business",
+  "status": 200,
+  "DE": "/de/business-security",
+  "alternates": 12
+ },
+ "bitwarden": {
+  "checked": "https://bitwarden.com/business/",
+  "status": 404,
+  "alternates": 0
+ },
+ "keepersecurity": {
+  "checked": "https://www.keepersecurity.com/business.html",
+  "status": 200,
+  "DE": "https://www.keepersecurity.com/de_DE/business.html",
+  "GB": "https://www.keepersecurity.com/en_GB/business.html",
+  "alternates": 13
+ },
+ "dashlane": {
+  "checked": "https://www.dashlane.com/business",
+  "status": 200,
+  "DE": "https://www.dashlane.com/de/business-password-manager",
+  "alternates": 5
+ },
+ "toolsandthrive": {
+  "checked": "https://toolsandthrive.com/best-password-manager-for-small-business/",
+  "status": 200,
+  "alternates": 5
+ },
+ "geekchamp": {
+  "checked": "https://geekchamp.com/best-password-managers-for-small-business-teams-with-shared-access-controls/",
+  "status": 403,
+  "alternates": 0
+ },
+ "proton": {
+  "checked": "https://proton.me/business/pass",
+  "status": 200,
+  "DE": "https://proton.me/de/business/pass",
+  "alternates": 27
+ },
+ "openideurope": {
+  "checked": "https://www.openideurope.eu/reviews/password-managers-for-business/",
+  "status": 200,
+  "DE": "https://www.openideurope.eu/de/vergleiche/passwortmanager-unternehmen/",
+  "alternates": 4
+ },
+ "techrepublic": {
+  "checked": "https://www.techrepublic.com/article/project-management-software-for-startups/",
+  "status": 403,
+  "alternates": 0
+ },
+ "itsecureops": {
+  "checked": "https://itsecureops.com/guides/small-business-password-managers/",
+  "status": 200,
+  "alternates": 1
+ },
+ "technovapartners": {
+  "checked": "https://technovapartners.com/en/insights/best-business-password-managers-2026",
+  "status": 200,
+  "DE": "https://technovapartners.com/de/insights/beste-passwortmanager-fuer-unternehmen-2026",
+  "alternates": 7
+ },
+ "bravotech": {
+  "checked": "https://www.bravotech.org/best-password-managers-small-teams/",
+  "status": 200,
+  "alternates": 3
+ },
+ "gocardless": {
+  "checked": "https://gocardless.com/",
+  "status": 200,
+  "GB": "https://gocardless.com/",
+  "AU": "https://gocardless.com/en-au/",
+  "alternates": 3
+ },
+ "mollie": {
+  "checked": "https://www.mollie.com/",
+  "status": 200,
+  "DE": "https://www.mollie.com/de/",
+  "GB": "https://www.mollie.com/gb/",
+  "alternates": 29
+ },
+ "shopify": {
+  "checked": "https://www.shopify.com/blog/ecommerce-payment-gateway",
+  "status": 200,
+  "CA": "https://www.shopify.com/ca/blog/ecommerce-payment-gateway",
+  "GB": "https://www.shopify.com/uk/blog/ecommerce-payment-gateway",
+  "AU": "https://www.shopify.com/au/blog/ecommerce-payment-gateway",
+  "alternates": 16
+ },
+ "deliveredsocial": {
+  "checked": "https://deliveredsocial.com/ecommerce-payment-gateways-uk/",
+  "status": 200,
+  "alternates": 6
+ },
+ "velotouch": {
+  "checked": "https://velotouch.com/best-payroll-software-for-uk-small-businesses/",
+  "status": 200,
+  "alternates": 0
+ },
+ "gusto": {
+  "checked": "https://gusto.com/",
+  "status": 403,
+  "alternates": 0
+ },
+ "intuit": {
+  "checked": "https://quickbooks.intuit.com/payroll/",
+  "status": 200,
+  "GB": "https://quickbooks.intuit.com/uk/payroll/",
+  "AU": "https://quickbooks.intuit.com/au/payroll/",
+  "CA": "https://quickbooks.intuit.com/ca/payroll/",
+  "alternates": 6
+ },
+ "adp": {
+  "checked": "https://www.adp.com/what-we-offer/products/run-powered-by-adp.aspx",
+  "status": 200,
+  "alternates": 3
+ },
+ "onpay": {
+  "checked": "https://onpay.com/",
+  "status": 403,
+  "alternates": 0
+ },
+ "cnbc": {
+  "checked": "https://www.cnbc.com/select/best-payroll-services-small-business/",
+  "status": 200,
+  "alternates": 0
+ },
+ "unpackmoney": {
+  "checked": "https://www.unpackmoney.com/small-business/best-payroll-software/",
+  "status": 200,
+  "alternates": 0
+ },
+ "paydocs": {
+  "checked": "https://paydocs.co/blog/uk-payroll-providers-compared",
+  "status": 200,
+  "alternates": 0
+ },
+ "patriotsoftware": {
+  "checked": "https://www.patriotsoftware.com/payroll/",
+  "status": 403,
+  "alternates": 0
+ },
+ "hrpresso": {
+  "checked": "https://hrpresso.com/reviews/best-payroll-software-for-small-business",
+  "status": 200,
+  "alternates": 0
+ },
+ "linear": {
+  "checked": "https://linear.app/",
+  "status": 200,
+  "alternates": 0
+ },
+ "clickup": {
+  "checked": "https://clickup.com/",
+  "status": 200,
+  "DE": "https://clickup.com/de",
+  "alternates": 7
+ },
+ "notion": {
+  "checked": "https://www.notion.com/",
+  "status": 200,
+  "DE": "https://www.notion.com/de",
+  "GB": "https://www.notion.com/en-gb",
+  "AU": "https://www.notion.com/en-gb",
+  "alternates": 24
+ },
+ "asana": {
+  "checked": "https://asana.com/",
+  "status": 200,
+  "alternates": 1
+ },
+ "thedigitalprojectmanager": {
+  "checked": "https://thedigitalprojectmanager.com/tools/best-project-management-software-for-startups/",
+  "status": 403,
+  "alternates": 0
+ },
+ "waveup": {
+  "checked": "https://waveup.com/blog/7-best-project-management-software-for-startups-in2025/",
+  "status": 200,
+  "alternates": 1
+ },
+ "trello": {
+  "checked": "https://trello.com/",
+  "status": 200,
+  "DE": "https://www.trello.com/de/home",
+  "AU": "https://www.trello.com/en-AU/home",
+  "GB": "https://www.trello.com/en-GB/home",
+  "alternates": 24
+ },
+ "stackfyi": {
+  "checked": "https://www.stackfyi.com/guides/best-pm-tools-startups-2026",
+  "status": 200,
+  "alternates": 0
+ },
+ "cloudappcritic": {
+  "checked": "https://cloudappcritic.com/project-management/project-management-tools-for-startups/",
+  "status": 200,
+  "alternates": 4
+ },
+ "employmenthero": {
+  "checked": "https://employmenthero.com/",
+  "status": 200,
+  "AU": "https://employmenthero.com/",
+  "CA": "https://employmenthero.com/en-ca/",
+  "GB": "https://employmenthero.com/uk/",
+  "alternates": 11
+ },
+ "factorialhr": {
+  "checked": "https://factorialhr.com/",
+  "status": 200,
+  "GB": "https://factorial.com/uk",
+  "DE": "https://factorialhr.de",
+  "alternates": 18
+ },
+ "stripe": {
+  "checked": "https://stripe.com/",
+  "status": 200,
+  "AU": "https://stripe.com/au",
+  "CA": "https://stripe.com/en-ca",
+  "DE": "https://stripe.com/de",
+  "GB": "https://stripe.com/gb",
+  "alternates": 89
+ },
+ "squareup": {
+  "checked": "https://squareup.com/",
+  "status": 200,
+  "CA": "https://squareup.com/ca/en",
+  "AU": "https://squareup.com/au/en",
+  "GB": "https://squareup.com/gb/en",
+  "alternates": 11
+ },
+ "paypal": {
+  "checked": "https://www.paypal.com/",
+  "status": 403,
+  "alternates": 0
+ },
+ "bestsmallbusinessaccountingsoftware": {
+  "checked": "https://bestsmallbusinessaccountingsoftware.com/blog/best-accounting-software-australia.html",
+  "status": 200,
+  "alternates": 0
+ },
+ "nerdwallet": {
+  "checked": "https://www.nerdwallet.com/business/software/learn/accounting-software",
+  "status": 200,
+  "alternates": 0
+ },
+ "bigin": {
+  "checked": "https://www.bigin.com/",
+  "status": 200,
+  "alternates": 0
+ },
+ "smallbusinesssoftwareguide": {
+  "checked": "https://smallbusinesssoftwareguide.com/guides/best-crm-software-for-small-teams/",
+  "status": 200,
+  "alternates": 0
+ },
+ "globaltechstack": {
+  "checked": "https://www.globaltechstack.com/blog/best-email-marketing-software-small-business",
+  "status": 200,
+  "alternates": 0
+ },
+ "zendikt": {
+  "checked": "https://www.zendikt.com/top-10-e-signature-software/australia/",
+  "status": 200,
+  "GB": "https://www.zendikt.com/top-10-e-signature-software/united-kingdom",
+  "DE": "https://www.zendikt.com/top-10-e-signature-software/germany",
+  "AU": "https://www.zendikt.com/top-10-e-signature-software/australia",
+  "CA": "https://www.zendikt.com/top-10-e-signature-software/canada",
+  "alternates": 9
+ },
+ "rankite": {
+  "checked": "https://rankite.com/blog/best-hr-software-for-small-business-canada",
+  "status": 200,
+  "alternates": 0
+ },
+ "signnow": {
+  "checked": "https://www.signnow.com/",
+  "status": 200,
+  "alternates": 3
+ },
+ "fusesign": {
+  "checked": "https://www.fusesign.com/plans/",
+  "status": 200,
+  "alternates": 0
+ },
+ "front": {
+  "checked": "https://front.com/",
+  "status": 200,
+  "alternates": 0
+ },
+ "eesel": {
+  "checked": "https://www.eesel.ai/blog/best-help-desk-software-for-small-businesses",
+  "status": 200,
+  "alternates": 3
+ },
+ "gleap": {
+  "checked": "https://www.gleap.ai/blog/help-desk-software-for-small-business",
+  "status": 200,
+  "alternates": 0
+ },
+ "rosterelf": {
+  "checked": "https://www.rosterelf.com/reviews/buying-guides/best-hris-software-australia",
+  "status": 200,
+  "AU": "https://www.rosterelf.com/reviews/buying-guides/best-hris-software-australia",
+  "alternates": 2
+ },
+ "hrpartner": {
+  "checked": "https://www.hrpartner.io/",
+  "status": 200,
+  "alternates": 0
+ },
+ "compono": {
+  "checked": "https://www.compono.com/articles/best-hr-software-australia-guide",
+  "status": 200,
+  "alternates": 1
+ },
+ "deel": {
+  "checked": "https://www.deel.com/",
+  "status": 200,
+  "GB": "https://www.deel.com/en-gb/",
+  "DE": "https://www.deel.com/de/",
+  "alternates": 17
+ },
+ "deputy": {
+  "checked": "https://www.deputy.com/",
+  "status": 200,
+  "AU": "https://www.deputy.com/au",
+  "GB": "https://www.deputy.com/gb",
+  "alternates": 4
+ },
+ "cohiva": {
+  "checked": "https://www.cohiva.com/best/hr-and-payroll-software-australia",
+  "status": 200,
+  "alternates": 0
+ },
+ "stackkite": {
+  "checked": "https://www.stackkite.com/categories/password-managers",
+  "status": 200,
+  "alternates": 0
+ },
+ "waveapps": {
+  "checked": "https://www.waveapps.com/",
+  "status": 200,
+  "alternates": 0
+ },
+ "jhgcats": {
+  "checked": "https://jhgcats.com/bookkeeping-software-canada/",
+  "status": 200,
+  "alternates": 3
+ },
+ "lessannoyingcrm": {
+  "checked": "https://www.lessannoyingcrm.com/",
+  "status": 200,
+  "alternates": 0
+ },
+ "constantcontact": {
+  "checked": "https://www.constantcontact.com/",
+  "status": 403,
+  "alternates": 0
+ },
+ "facetedmediamagazine": {
+  "checked": "https://facetedmediamagazine.com/best-e-signature-tools-business/",
+  "status": 200,
+  "alternates": 6
+ },
+ "ezsign": {
+  "checked": "https://www.ezsign.com/best-electronic-signature-software-canada/",
+  "status": 200,
+  "alternates": 7
+ },
+ "boldsign": {
+  "checked": "https://boldsign.com/",
+  "status": 200,
+  "alternates": 1
+ },
+ "liveagent": {
+  "checked": "https://www.liveagent.com/",
+  "status": 200,
+  "alternates": 0
+ },
+ "tidio": {
+  "checked": "https://www.tidio.com/",
+  "status": 200,
+  "DE": "https://www.tidio.com/de/",
+  "alternates": 8
+ },
+ "collage": {
+  "checked": "https://www.collage.co/",
+  "status": 200,
+  "alternates": 2
+ },
+ "risepeople": {
+  "checked": "https://risepeople.com/",
+  "status": 200,
+  "alternates": 4
+ },
+ "hr": {
+  "checked": "https://www.hr.software/reviews/humi-by-employment-hero",
+  "status": 200,
+  "alternates": 0
+ },
+ "joinhomebase": {
+  "checked": "https://www.joinhomebase.com/",
+  "status": 200,
+  "alternates": 0
+ },
+ "folksrh": {
+  "checked": "https://folksrh.com/",
+  "status": 200,
+  "alternates": 3
+ },
+ "martechverdict": {
+  "checked": "https://martechverdict.com/reviews/best-canadian-payroll-services/",
+  "status": 200,
+  "alternates": 1
+ },
+ "wagepoint": {
+  "checked": "https://wagepoint.com/",
+  "status": 200,
+  "alternates": 7
+ },
+ "peoplemanagingpeople": {
+  "checked": "https://peoplemanagingpeople.com/tools/best-canadian-hr-software/",
+  "status": 403,
+  "alternates": 0
+ },
+ "helcim": {
+  "checked": "https://www.helcim.com/",
+  "status": 403,
+  "alternates": 0
+ },
+ "primetechnolab": {
+  "checked": "https://primetechnolab.com/website-design/e-commerce-website-development-service/payment-gateway/",
+  "status": 200,
+  "alternates": 1
+ },
+ "paypalobjects": {
+  "checked": "https://www.paypalobjects.com/marketing/ua/OA/merchant-fees/en-CA-110426.pdf",
+  "status": 200,
+  "alternates": 0
+ },
+ "agendrix": {
+  "checked": "https://www.agendrix.com/blog/best-payroll-software-for-small-business-canada",
+  "status": 200,
+  "alternates": 5
+ },
+ "paymentevolution": {
+  "checked": "https://www.paymentevolution.com/",
+  "status": 200,
+  "CA": "https://paymentevolution.com/",
+  "alternates": 4
+ },
+ "knitpeople": {
+  "checked": "https://www.knitpeople.com/",
+  "status": 200,
+  "alternates": 0
+ },
+ "paychex": {
+  "checked": "https://www.paychex.com/",
+  "status": 200,
+  "alternates": 3
+ },
+ "nethris": {
+  "checked": "https://nethris.com/",
+  "status": 200,
+  "CA": "https://nethris.com/",
+  "alternates": 5
+ },
+ "inc": {
+  "checked": "https://www.inc.com/tanza-loudenback/best-small-business-payroll-software/91369883",
+  "status": 403,
+  "alternates": 0
+ },
+ "ones": {
+  "checked": "https://ones.com/blog/project-management-tools-for-startups-2026-comparison/",
+  "status": 200,
+  "alternates": 3
+ },
+ "buchhaltungsvergleich": {
+  "checked": "https://buchhaltungsvergleich.com/vergleich/",
+  "status": 200,
+  "alternates": 0
+ },
+ "handelsblatt": {
+  "checked": "https://www.handelsblatt.com/software/lohnabrechnungsprogramme-vergleich/",
+  "status": 200,
+  "alternates": 5
+ },
+ "decisioncircuit": {
+  "checked": "https://www.decisioncircuit.com/crm/best/best-crm-for-small-business/",
+  "status": 200,
+  "alternates": 5
+ },
+ "data-backbone": {
+  "checked": "https://data-backbone.com/automatisierung/crm-vergleich-kleine-unternehmen",
+  "status": 200,
+  "alternates": 0
+ },
+ "agentcomm": {
+  "checked": "https://www.agentcomm.net/articles/gdpr-compliant-newsletter-platforms/",
+  "status": 200,
+  "alternates": 0
+ },
+ "stark": {
+  "checked": "https://www.stark.marketing/mailchimp-vs-mailerlite/",
+  "status": 200,
+  "alternates": 0
+ },
+ "funnelwerkstatt": {
+  "checked": "https://funnelwerkstatt.com/ratgeber/beste-e-mail-marketing-tools-dsgvo-konform",
+  "status": 200,
+  "alternates": 1
+ },
+ "kosten": {
+  "checked": "https://kosten.org/software/newsletter-tool",
+  "status": 200,
+  "DE": "https://kosten.org/software/newsletter-tool",
+  "alternates": 5
+ },
+ "cleverreach": {
+  "checked": "https://www.cleverreach.com/",
+  "status": 200,
+  "alternates": 0
+ },
+ "getresponse": {
+  "checked": "https://www.getresponse.com/",
+  "status": 200,
+  "DE": "https://www.getresponse.com/de",
+  "alternates": 14
+ },
+ "yousign": {
+  "checked": "https://yousign.com/",
+  "status": 200,
+  "DE": "https://youtrust.com/de-de",
+  "alternates": 6
+ },
+ "europa": {
+  "checked": "https://eur-lex.europa.eu/legal-content/DE-EN/TXT/?uri=CELEX%3A32014R0910",
+  "status": 200,
+  "alternates": 1
+ },
+ "youtrust": {
+  "checked": "https://youtrust.com/",
+  "status": 200,
+  "DE": "https://youtrust.com/de-de",
+  "alternates": 6
+ },
+ "fp-sign": {
+  "checked": "https://www.fp-sign.com/",
+  "status": 200,
+  "DE": "https://www.fp-sign.com/de/",
+  "alternates": 6
+ },
+ "skribble": {
+  "checked": "https://www.skribble.com/",
+  "status": 200,
+  "DE": "https://www.skribble.com/de-de/",
+  "alternates": 7
+ },
+ "help-desk": {
+  "checked": "https://help-desk.reviews/en-us/best/for-small-business",
+  "status": 200,
+  "GB": "https://help-desk.reviews/en-gb/best/for-small-business",
+  "DE": "https://help-desk.reviews/de/beste/fuer-kleine-unternehmen",
+  "alternates": 6
+ },
+ "keeping": {
+  "checked": "https://www.keeping.com/content/zendesk-vs-help-scout/",
+  "status": 200,
+  "alternates": 2
+ },
+ "getmacha": {
+  "checked": "https://www.getmacha.com/blog/freshdesk-vs-help-scout-vs-zendesk",
+  "status": 200,
+  "alternates": 0
+ },
+ "zammad": {
+  "checked": "https://zammad.com/",
+  "status": 200,
+  "DE": "https://zammad.com/de",
+  "alternates": 4
+ },
+ "kenjo": {
+  "checked": "https://www.kenjo.io/",
+  "status": 200,
+  "alternates": 0
+ },
+ "psono": {
+  "checked": "https://psono.com/",
+  "status": 200,
+  "DE": "https://psono.com/de",
+  "alternates": 27
+ },
+ "expertinsights": {
+  "checked": "https://expertinsights.com/identity-and-access-management/the-top-password-managers-for-businesses",
+  "status": 200,
+  "alternates": 4
+ },
+ "bizstackreview": {
+  "checked": "https://bizstackreview.com/password-managers/best-password-manager-for-small-business/",
+  "status": 200,
+  "alternates": 0
+ },
+ "heavenhr": {
+  "checked": "https://www.heavenhr.com/",
+  "status": 200,
+  "DE": "https://www.heavenhr.com/web/DE/de",
+  "alternates": 2
+ },
+ "ordio": {
+  "checked": "https://www.ordio.com/insights/ratgeber/lohnabrechnung-software-vergleich",
+  "status": 200,
+  "DE": "https://www.ordio.com/insights/ratgeber/lohnabrechnung-software-vergleich",
+  "alternates": 2
+ },
+ "futuretechcore": {
+  "checked": "https://futuretechcore.com/project-management-tools-for-startups/",
+  "status": 200,
+  "alternates": 5
+ }
+}

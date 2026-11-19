@@ -1,0 +1,430 @@
+{
+ "accounting": [
+  {
+   "name": "Xero",
+   "domains": [
+    "xero.com"
+   ]
+  },
+  {
+   "name": "QuickBooks",
+   "aliases": [
+    "QuickBooks Online"
+   ],
+   "domains": [
+    "intuit.com",
+    "quickbooks.com"
+   ]
+  },
+  {
+   "name": "FreshBooks",
+   "domains": [
+    "freshbooks.com"
+   ]
+  },
+  {
+   "name": "Zoho Books",
+   "domains": [
+    "zoho.com"
+   ]
+  },
+  {
+   "name": "Wave",
+   "aliases": [
+    "Wave Accounting"
+   ],
+   "cs": true,
+   "domains": [
+    "waveapps.com",
+    "wave.com"
+   ]
+  },
+  {
+   "name": "MYOB",
+   "domains": [
+    "myob.com"
+   ]
+  },
+  {
+   "name": "FreeAgent",
+   "domains": [
+    "freeagent.com"
+   ]
+  },
+  {
+   "name": "sevdesk",
+   "domains": [
+    "sevdesk.de",
+    "sevdesk.com"
+   ]
+  }
+ ],
+ "crm": [
+  {
+   "name": "Pipedrive",
+   "domains": [
+    "pipedrive.com"
+   ]
+  },
+  {
+   "name": "Freshsales",
+   "domains": [
+    "freshworks.com",
+    "freshsales.io"
+   ]
+  },
+  {
+   "name": "Zoho CRM",
+   "domains": [
+    "zoho.com"
+   ]
+  },
+  {
+   "name": "HubSpot",
+   "aliases": [
+    "HubSpot CRM"
+   ],
+   "domains": [
+    "hubspot.com"
+   ]
+  },
+  {
+   "name": "monday CRM",
+   "aliases": [
+    "monday sales CRM"
+   ],
+   "domains": [
+    "monday.com"
+   ]
+  },
+  {
+   "name": "Less Annoying CRM",
+   "domains": [
+    "lessannoyingcrm.com"
+   ]
+  }
+ ],
+ "email": [
+  {
+   "name": "Brevo",
+   "domains": [
+    "brevo.com"
+   ]
+  },
+  {
+   "name": "MailerLite",
+   "domains": [
+    "mailerlite.com"
+   ]
+  },
+  {
+   "name": "ActiveCampaign",
+   "domains": [
+    "activecampaign.com"
+   ]
+  },
+  {
+   "name": "Klaviyo",
+   "domains": [
+    "klaviyo.com"
+   ]
+  },
+  {
+   "name": "Mailchimp",
+   "domains": [
+    "mailchimp.com"
+   ]
+  },
+  {
+   "name": "Constant Contact",
+   "domains": [
+    "constantcontact.com"
+   ]
+  }
+ ],
+ "esign": [
+  {
+   "name": "DocuSign",
+   "domains": [
+    "docusign.com",
+    "docusign.net"
+   ]
+  },
+  {
+   "name": "Adobe Acrobat Sign",
+   "aliases": [
+    "Adobe Sign"
+   ],
+   "domains": [
+    "adobe.com"
+   ]
+  },
+  {
+   "name": "Dropbox Sign",
+   "aliases": [
+    "HelloSign"
+   ],
+   "domains": [
+    "sign.dropbox.com",
+    "hellosign.com"
+   ]
+  },
+  {
+   "name": "PandaDoc",
+   "domains": [
+    "pandadoc.com"
+   ]
+  },
+  {
+   "name": "SignWell",
+   "domains": [
+    "signwell.com"
+   ]
+  }
+ ],
+ "helpdesk": [
+  {
+   "name": "Freshdesk",
+   "domains": [
+    "freshdesk.com",
+    "freshworks.com"
+   ]
+  },
+  {
+   "name": "Help Scout",
+   "domains": [
+    "helpscout.com"
+   ]
+  },
+  {
+   "name": "Zoho Desk",
+   "domains": [
+    "zoho.com"
+   ]
+  },
+  {
+   "name": "Zendesk",
+   "domains": [
+    "zendesk.com",
+    "zendesk.de"
+   ]
+  },
+  {
+   "name": "Intercom",
+   "domains": [
+    "intercom.com"
+   ]
+  }
+ ],
+ "hr": [
+  {
+   "name": "BambooHR",
+   "domains": [
+    "bamboohr.com"
+   ]
+  },
+  {
+   "name": "Rippling",
+   "domains": [
+    "rippling.com"
+   ]
+  },
+  {
+   "name": "Zoho People",
+   "domains": [
+    "zoho.com"
+   ]
+  },
+  {
+   "name": "Employment Hero",
+   "domains": [
+    "employmenthero.com"
+   ]
+  },
+  {
+   "name": "Gusto",
+   "domains": [
+    "gusto.com"
+   ]
+  },
+  {
+   "name": "Personio",
+   "domains": [
+    "personio.com",
+    "personio.de"
+   ]
+  }
+ ],
+ "passwords": [
+  {
+   "name": "1Password",
+   "domains": [
+    "1password.com"
+   ]
+  },
+  {
+   "name": "Bitwarden",
+   "domains": [
+    "bitwarden.com"
+   ]
+  },
+  {
+   "name": "Proton Pass",
+   "domains": [
+    "proton.me"
+   ]
+  },
+  {
+   "name": "Keeper",
+   "cs": true,
+   "domains": [
+    "keepersecurity.com"
+   ]
+  },
+  {
+   "name": "Dashlane",
+   "domains": [
+    "dashlane.com"
+   ]
+  }
+ ],
+ "payments": [
+  {
+   "name": "Stripe",
+   "domains": [
+    "stripe.com"
+   ]
+  },
+  {
+   "name": "Shopify Payments",
+   "domains": [
+    "shopify.com"
+   ]
+  },
+  {
+   "name": "PayPal",
+   "domains": [
+    "paypal.com"
+   ]
+  },
+  {
+   "name": "Square",
+   "cs": true,
+   "domains": [
+    "squareup.com",
+    "square.com"
+   ]
+  },
+  {
+   "name": "Helcim",
+   "domains": [
+    "helcim.com"
+   ]
+  },
+  {
+   "name": "Mollie",
+   "domains": [
+    "mollie.com"
+   ]
+  }
+ ],
+ "payroll": [
+  {
+   "name": "QuickBooks Payroll",
+   "aliases": [
+    "QuickBooks"
+   ],
+   "domains": [
+    "intuit.com",
+    "quickbooks.com"
+   ]
+  },
+  {
+   "name": "Gusto",
+   "domains": [
+    "gusto.com"
+   ]
+  },
+  {
+   "name": "OnPay",
+   "domains": [
+    "onpay.com"
+   ]
+  },
+  {
+   "name": "Sage Payroll",
+   "aliases": [
+    "Sage"
+   ],
+   "cs": true,
+   "domains": [
+    "sage.com"
+   ]
+  },
+  {
+   "name": "Xero Payroll",
+   "aliases": [
+    "Xero"
+   ],
+   "domains": [
+    "xero.com"
+   ]
+  },
+  {
+   "name": "ADP",
+   "aliases": [
+    "ADP RUN",
+    "RUN Powered by ADP"
+   ],
+   "cs": true,
+   "domains": [
+    "adp.com"
+   ]
+  }
+ ],
+ "pm": [
+  {
+   "name": "ClickUp",
+   "domains": [
+    "clickup.com"
+   ]
+  },
+  {
+   "name": "Linear",
+   "cs": true,
+   "domains": [
+    "linear.app"
+   ]
+  },
+  {
+   "name": "Notion",
+   "cs": true,
+   "domains": [
+    "notion.so",
+    "notion.com"
+   ]
+  },
+  {
+   "name": "Asana",
+   "domains": [
+    "asana.com"
+   ]
+  },
+  {
+   "name": "monday.com",
+   "aliases": [
+    "Monday.com"
+   ],
+   "domains": [
+    "monday.com"
+   ],
+   "rawName": true
+  },
+  {
+   "name": "Trello",
+   "domains": [
+    "trello.com"
+   ]
+  }
+ ]
+}
